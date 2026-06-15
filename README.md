@@ -5,3 +5,6 @@ GOLD OUTPUT LINK :https://github.com/banugowda862/real-estate-analytics-platform
 
 
 SILVER OUTPUT LINK:https://github.com/banugowda862/real-estate-analytics-platform/blob/main/silver_mumbai_clean%20(1).csv
+
+
+DASHBOARD LINK:https://github.com/banugowda862/real-estate-analytics-platform/blob/main/Screenshot%20(39).png
