@@ -1,0 +1,5 @@
+price_segment,total_listings,avg_price_lakhs,avg_area_sqft
+Affordable (<50L),232,33.31,872.9
+Luxury (2Cr+),200,365.81,1285.17
+Mid-Range (50-100L),307,73.74,1008.28
+Premium (1-2Cr),261,137.65,1176.94

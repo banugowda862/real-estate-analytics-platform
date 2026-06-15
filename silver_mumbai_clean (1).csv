@@ -1,0 +1,1001 @@
+locality,bhk,price_lakhs,area_sqft,furnishing_status,facing,status,floor,parking,bathroom,city,price_per_sqft,price_segment,affordability_score
+Nalasopara,2,41.12,1066.0,Furnished,East,Ready to Move,26,2,2,Mumbai,3857.41,Affordable (<50L),97.8
+Goregaon West,3,139.05,943.0,Unfurnished,West,Ready to Move,2,1,2,Mumbai,14745.49,Premium (1-2Cr),91.2
+Panvel,1,21.15,734.0,Furnished,East,Ready to Move,27,2,2,Mumbai,2881.47,Affordable (<50L),99.2
+Lower Parel,2,251.79,1192.0,Furnished,North,Ready to Move,19,2,3,Mumbai,21123.32,Luxury (2Cr+),83.7
+Malad West,3,85.37,1462.0,Semi-Furnished,West,Under Construction,9,1,3,Mumbai,5839.26,Mid-Range (50-100L),94.8
+Andheri East,2,90.75,1042.0,Furnished,South,Ready to Move,3,1,1,Mumbai,8709.21,Mid-Range (50-100L),94.5
+Mira Road,1,31.9,659.0,Semi-Furnished,West,Under Construction,4,1,3,Mumbai,4840.67,Affordable (<50L),98.4
+Thane East,5,150.72,1525.0,Semi-Furnished,North,Under Construction,15,1,3,Mumbai,9883.28,Premium (1-2Cr),90.4
+Dahisar,2,55.05,836.0,Furnished,South,Under Construction,25,0,1,Mumbai,6584.93,Mid-Range (50-100L),96.9
+Kurla,1,26.53,698.0,Furnished,South,Under Construction,24,2,2,Mumbai,3800.86,Affordable (<50L),98.8
+Thane West,3,127.24,1351.0,Furnished,West,Ready to Move,26,0,3,Mumbai,9418.21,Premium (1-2Cr),92.0
+Kandivali West,4,182.54,1265.0,Unfurnished,North,Under Construction,24,0,2,Mumbai,14430.04,Premium (1-2Cr),88.3
+Dahisar,3,119.21,1157.0,Furnished,North,Under Construction,3,0,3,Mumbai,10303.37,Premium (1-2Cr),92.6
+Parel,3,454.23,1171.0,Furnished,North,Ready to Move,26,1,3,Mumbai,38789.92,Luxury (2Cr+),70.0
+Powai,2,100.84,1018.0,Furnished,South,Under Construction,5,2,3,Mumbai,9905.7,Premium (1-2Cr),93.8
+Mulund West,2,125.77,999.0,Unfurnished,West,Under Construction,2,1,3,Mumbai,12589.59,Premium (1-2Cr),92.1
+Borivali East,2,89.09,970.0,Semi-Furnished,North,Under Construction,25,2,1,Mumbai,9184.54,Mid-Range (50-100L),94.6
+Andheri West,4,315.45,1000.0,Furnished,East,Ready to Move,7,1,2,Mumbai,31545.0,Luxury (2Cr+),79.4
+Malad West,2,103.78,835.0,Unfurnished,North,Under Construction,24,0,3,Mumbai,12428.74,Premium (1-2Cr),93.6
+Goregaon East,3,146.65,1046.0,Furnished,South,Ready to Move,27,0,2,Mumbai,14020.08,Premium (1-2Cr),90.7
+Andheri East,3,101.5,1074.0,Furnished,North,Under Construction,2,0,3,Mumbai,9450.65,Premium (1-2Cr),93.8
+Parel,3,290.8,1287.0,Unfurnished,South,Ready to Move,17,2,3,Mumbai,22595.18,Luxury (2Cr+),81.0
+Kalyan,3,53.1,1381.0,Furnished,East,Under Construction,27,1,3,Mumbai,3845.04,Mid-Range (50-100L),97.0
+Bandra West,2,281.49,810.0,Semi-Furnished,North,Ready to Move,19,2,3,Mumbai,34751.85,Luxury (2Cr+),81.7
+Dombivli,3,56.88,1459.0,Furnished,North,Under Construction,25,0,2,Mumbai,3898.56,Mid-Range (50-100L),96.8
+Nerul,5,159.98,1777.0,Semi-Furnished,South,Ready to Move,20,0,2,Mumbai,9002.81,Premium (1-2Cr),89.8
+Andheri West,2,188.05,1017.0,Furnished,East,Ready to Move,19,2,3,Mumbai,18490.66,Premium (1-2Cr),87.9
+Vashi,3,170.57,1267.0,Unfurnished,East,Under Construction,4,1,3,Mumbai,13462.51,Premium (1-2Cr),89.1
+Ulhasnagar,4,63.85,1004.0,Semi-Furnished,West,Under Construction,22,2,3,Mumbai,6359.56,Mid-Range (50-100L),96.3
+Mira Road,1,16.43,723.0,Unfurnished,North,Ready to Move,1,2,2,Mumbai,2272.48,Affordable (<50L),99.5
+Airoli,3,78.78,1233.0,Semi-Furnished,East,Ready to Move,22,2,2,Mumbai,6389.29,Mid-Range (50-100L),95.3
+Kalyan,2,38.79,988.0,Furnished,East,Under Construction,29,2,3,Mumbai,3926.11,Affordable (<50L),98.0
+Ulhasnagar,1,8.52,898.0,Semi-Furnished,East,Under Construction,21,1,2,Mumbai,948.78,Affordable (<50L),100.0
+Vasai,3,44.88,1209.0,Unfurnished,North,Under Construction,1,2,3,Mumbai,3712.16,Affordable (<50L),97.6
+Panvel,3,60.93,1165.0,Semi-Furnished,East,Under Construction,22,1,2,Mumbai,5230.04,Mid-Range (50-100L),96.5
+Dahisar,3,69.36,1286.0,Unfurnished,West,Ready to Move,27,1,2,Mumbai,5393.47,Mid-Range (50-100L),95.9
+Parel,1,159.41,598.0,Semi-Furnished,South,Ready to Move,29,1,2,Mumbai,26657.19,Premium (1-2Cr),89.9
+Ulhasnagar,1,18.4,870.0,Semi-Furnished,North,Ready to Move,4,0,3,Mumbai,2114.94,Affordable (<50L),99.3
+Andheri West,3,246.35,1367.0,Unfurnished,North,Ready to Move,28,1,2,Mumbai,18021.21,Luxury (2Cr+),84.0
+Ghatkopar East,3,151.59,1063.0,Semi-Furnished,North,Under Construction,29,1,2,Mumbai,14260.58,Premium (1-2Cr),90.4
+Airoli,1,20.93,838.0,Semi-Furnished,North,Under Construction,5,0,3,Mumbai,2497.61,Affordable (<50L),99.2
+Borivali West,3,79.3,884.0,Semi-Furnished,North,Ready to Move,23,0,2,Mumbai,8970.59,Mid-Range (50-100L),95.2
+Chembur,2,132.39,835.0,Semi-Furnished,North,Under Construction,5,1,3,Mumbai,15855.09,Premium (1-2Cr),91.7
+Nerul,4,181.37,1047.0,Semi-Furnished,East,Ready to Move,2,1,1,Mumbai,17322.83,Premium (1-2Cr),88.4
+Dahisar,2,67.28,958.0,Unfurnished,East,Under Construction,29,2,2,Mumbai,7022.96,Mid-Range (50-100L),96.1
+Goregaon East,5,214.75,1870.0,Furnished,East,Under Construction,28,0,1,Mumbai,11483.96,Luxury (2Cr+),86.1
+Chembur,2,79.08,709.0,Semi-Furnished,South,Ready to Move,7,0,3,Mumbai,11153.74,Mid-Range (50-100L),95.3
+Nerul,5,215.46,1753.0,Semi-Furnished,South,Ready to Move,10,1,2,Mumbai,12290.93,Luxury (2Cr+),86.1
+Ghatkopar East,1,45.69,789.0,Unfurnished,West,Ready to Move,28,2,3,Mumbai,5790.87,Affordable (<50L),97.5
+Vashi,1,49.21,595.0,Furnished,North,Ready to Move,5,2,1,Mumbai,8270.59,Affordable (<50L),97.3
+Dombivli,3,84.89,977.0,Furnished,South,Ready to Move,14,1,3,Mumbai,8688.84,Mid-Range (50-100L),94.9
+Ulhasnagar,3,26.56,1057.0,Semi-Furnished,West,Under Construction,2,2,1,Mumbai,2512.77,Affordable (<50L),98.8
+Kandivali West,2,95.65,874.0,Unfurnished,East,Under Construction,4,0,3,Mumbai,10943.94,Mid-Range (50-100L),94.1
+Mira Road,5,130.82,1690.0,Unfurnished,East,Ready to Move,16,1,1,Mumbai,7740.83,Premium (1-2Cr),91.8
+Nalasopara,3,58.15,1215.0,Furnished,North,Ready to Move,23,0,2,Mumbai,4786.01,Mid-Range (50-100L),96.7
+Chembur,1,54.98,724.0,Furnished,West,Ready to Move,27,2,1,Mumbai,7593.92,Mid-Range (50-100L),96.9
+Mira Road,4,145.33,1284.0,Semi-Furnished,North,Under Construction,20,2,2,Mumbai,11318.54,Premium (1-2Cr),90.8
+Mulund East,2,54.14,1001.0,Unfurnished,East,Under Construction,21,2,1,Mumbai,5408.59,Mid-Range (50-100L),96.9
+Nalasopara,2,28.29,729.0,Unfurnished,West,Ready to Move,3,2,3,Mumbai,3880.66,Affordable (<50L),98.7
+Goregaon West,1,73.65,791.0,Semi-Furnished,South,Ready to Move,29,1,3,Mumbai,9311.0,Mid-Range (50-100L),95.6
+Dahisar,5,138.59,1997.0,Semi-Furnished,East,Ready to Move,5,1,2,Mumbai,6939.91,Premium (1-2Cr),91.3
+Kandivali East,1,46.65,633.0,Unfurnished,East,Ready to Move,4,1,3,Mumbai,7369.67,Affordable (<50L),97.4
+Ghatkopar West,2,122.17,979.0,Unfurnished,West,Under Construction,19,2,2,Mumbai,12479.06,Premium (1-2Cr),92.4
+Powai,1,84.09,570.0,Furnished,North,Ready to Move,7,0,2,Mumbai,14752.63,Mid-Range (50-100L),94.9
+Powai,4,307.46,1229.0,Furnished,West,Ready to Move,6,1,3,Mumbai,25017.09,Luxury (2Cr+),79.9
+Ghatkopar East,2,55.17,1162.0,Furnished,South,Ready to Move,19,0,2,Mumbai,4747.85,Mid-Range (50-100L),96.9
+Vikhroli,1,43.45,755.0,Unfurnished,East,Ready to Move,12,1,3,Mumbai,5754.97,Affordable (<50L),97.7
+Vashi,2,76.53,794.0,Semi-Furnished,South,Under Construction,28,1,3,Mumbai,9638.54,Mid-Range (50-100L),95.4
+Lower Parel,2,393.85,1193.0,Semi-Furnished,North,Ready to Move,9,0,3,Mumbai,33013.41,Luxury (2Cr+),74.1
+Kharghar,2,80.42,1175.0,Furnished,North,Ready to Move,2,1,2,Mumbai,6844.26,Mid-Range (50-100L),95.2
+Borivali West,3,107.16,1355.0,Semi-Furnished,South,Ready to Move,17,2,3,Mumbai,7908.49,Premium (1-2Cr),93.4
+Parel,4,687.6,1674.0,Furnished,East,Under Construction,9,2,1,Mumbai,41075.27,Luxury (2Cr+),54.4
+Panvel,3,102.96,1378.0,Unfurnished,East,Under Construction,3,0,3,Mumbai,7471.7,Premium (1-2Cr),93.7
+Vasai,5,113.72,1385.0,Semi-Furnished,East,Under Construction,1,2,3,Mumbai,8210.83,Premium (1-2Cr),92.9
+Powai,2,131.21,1036.0,Semi-Furnished,South,Ready to Move,8,2,2,Mumbai,12665.06,Premium (1-2Cr),91.8
+Kalyan,3,71.37,1188.0,Furnished,West,Under Construction,5,1,2,Mumbai,6007.58,Mid-Range (50-100L),95.8
+Thane West,3,129.43,1253.0,Semi-Furnished,North,Ready to Move,7,1,3,Mumbai,10329.61,Premium (1-2Cr),91.9
+Kalyan,3,63.34,1264.0,Unfurnished,North,Ready to Move,2,0,1,Mumbai,5011.08,Mid-Range (50-100L),96.3
+Vashi,3,142.12,1303.0,Furnished,South,Under Construction,24,0,2,Mumbai,10907.14,Premium (1-2Cr),91.0
+Thane West,2,69.71,1190.0,Furnished,West,Ready to Move,11,2,2,Mumbai,5857.98,Mid-Range (50-100L),95.9
+Nerul,3,126.38,1110.0,Furnished,North,Under Construction,3,2,3,Mumbai,11385.59,Premium (1-2Cr),92.1
+Ghatkopar East,1,47.97,628.0,Furnished,East,Under Construction,28,1,3,Mumbai,7638.54,Affordable (<50L),97.3
+Airoli,2,67.44,967.0,Semi-Furnished,West,Under Construction,17,1,2,Mumbai,6974.15,Mid-Range (50-100L),96.0
+Worli,4,546.45,1385.0,Semi-Furnished,North,Under Construction,11,2,3,Mumbai,39454.87,Luxury (2Cr+),63.9
+Thane West,5,231.56,1230.0,Unfurnished,East,Under Construction,15,2,2,Mumbai,18826.02,Luxury (2Cr+),85.0
+Lower Parel,3,431.26,1318.0,Semi-Furnished,West,Ready to Move,24,2,2,Mumbai,32720.79,Luxury (2Cr+),71.6
+Nerul,1,37.87,736.0,Unfurnished,South,Ready to Move,23,0,3,Mumbai,5145.38,Affordable (<50L),98.0
+Malad East,3,101.95,987.0,Semi-Furnished,West,Under Construction,25,0,3,Mumbai,10329.28,Premium (1-2Cr),93.7
+Kharghar,4,145.34,1631.0,Furnished,West,Ready to Move,4,2,2,Mumbai,8911.1,Premium (1-2Cr),90.8
+Kandivali East,3,102.26,933.0,Furnished,East,Under Construction,20,1,2,Mumbai,10960.34,Premium (1-2Cr),93.7
+Borivali East,2,91.35,704.0,Furnished,West,Under Construction,23,1,2,Mumbai,12975.85,Mid-Range (50-100L),94.4
+Chembur,3,211.68,902.0,Unfurnished,North,Under Construction,5,2,2,Mumbai,23467.85,Luxury (2Cr+),86.3
+Kharghar,2,36.29,1188.0,Semi-Furnished,South,Under Construction,19,1,1,Mumbai,3054.71,Affordable (<50L),98.1
+Andheri East,3,175.36,1395.0,Furnished,West,Under Construction,22,2,3,Mumbai,12570.61,Premium (1-2Cr),88.8
+Dombivli,2,32.73,757.0,Semi-Furnished,West,Under Construction,6,0,2,Mumbai,4323.65,Affordable (<50L),98.4
+Mira Road,2,34.49,868.0,Semi-Furnished,East,Ready to Move,10,1,3,Mumbai,3973.5,Affordable (<50L),98.3
+Dahisar,1,20.15,599.0,Furnished,East,Ready to Move,11,2,2,Mumbai,3363.94,Affordable (<50L),99.2
+Chembur,1,68.58,811.0,Semi-Furnished,West,Ready to Move,24,2,1,Mumbai,8456.23,Mid-Range (50-100L),96.0
+Kalyan,2,24.57,1071.0,Semi-Furnished,South,Under Construction,29,2,1,Mumbai,2294.12,Affordable (<50L),98.9
+Vasai,2,24.93,1107.0,Unfurnished,West,Under Construction,4,0,3,Mumbai,2252.03,Affordable (<50L),98.9
+Dadar,1,133.49,704.0,Semi-Furnished,South,Ready to Move,29,1,1,Mumbai,18961.65,Premium (1-2Cr),91.6
+Nerul,1,31.2,865.0,Unfurnished,West,Under Construction,21,2,2,Mumbai,3606.94,Affordable (<50L),98.5
+Borivali East,3,87.46,1325.0,Semi-Furnished,South,Under Construction,15,2,3,Mumbai,6600.75,Mid-Range (50-100L),94.7
+Dombivli,2,50.69,987.0,Furnished,West,Ready to Move,1,0,3,Mumbai,5135.76,Mid-Range (50-100L),97.2
+Worli,3,437.29,983.0,Semi-Furnished,West,Ready to Move,27,1,1,Mumbai,44485.25,Luxury (2Cr+),71.2
+Virar,2,29.25,1002.0,Unfurnished,East,Under Construction,5,0,3,Mumbai,2919.16,Affordable (<50L),98.6
+Goregaon East,1,28.51,759.0,Semi-Furnished,North,Ready to Move,5,2,2,Mumbai,3756.26,Affordable (<50L),98.7
+Dahisar,3,70.71,1125.0,Semi-Furnished,West,Ready to Move,12,1,3,Mumbai,6285.33,Mid-Range (50-100L),95.8
+Dahisar,1,32.98,556.0,Unfurnished,South,Under Construction,4,0,3,Mumbai,5931.65,Affordable (<50L),98.4
+Kandivali East,5,217.97,1506.0,Furnished,West,Ready to Move,29,1,1,Mumbai,14473.44,Luxury (2Cr+),85.9
+Airoli,3,69.21,1003.0,Semi-Furnished,West,Under Construction,22,2,1,Mumbai,6900.3,Mid-Range (50-100L),95.9
+Andheri West,3,213.39,1234.0,Furnished,North,Ready to Move,21,0,2,Mumbai,17292.54,Luxury (2Cr+),86.2
+Parel,4,335.08,1332.0,Semi-Furnished,North,Under Construction,2,2,2,Mumbai,25156.16,Luxury (2Cr+),78.1
+Worli,1,285.32,755.0,Unfurnished,South,Ready to Move,19,1,1,Mumbai,37790.73,Luxury (2Cr+),81.4
+Kandivali West,2,78.39,1157.0,Furnished,East,Ready to Move,11,1,2,Mumbai,6775.28,Mid-Range (50-100L),95.3
+Lower Parel,1,159.62,612.0,Furnished,East,Under Construction,22,1,3,Mumbai,26081.7,Premium (1-2Cr),89.8
+Dahisar,1,25.34,658.0,Semi-Furnished,North,Ready to Move,27,2,3,Mumbai,3851.06,Affordable (<50L),98.9
+Kurla,3,137.92,1041.0,Unfurnished,North,Under Construction,2,1,3,Mumbai,13248.8,Premium (1-2Cr),91.3
+Chembur,3,194.73,917.0,Furnished,North,Ready to Move,3,1,2,Mumbai,21235.55,Premium (1-2Cr),87.5
+Navi Mumbai,1,34.31,559.0,Semi-Furnished,North,Ready to Move,8,0,1,Mumbai,6137.75,Affordable (<50L),98.3
+Bandra West,3,373.54,1179.0,Semi-Furnished,East,Ready to Move,5,2,2,Mumbai,31682.78,Luxury (2Cr+),75.5
+Dombivli,3,41.37,1008.0,Semi-Furnished,South,Under Construction,14,2,3,Mumbai,4104.17,Affordable (<50L),97.8
+Vasai,3,39.22,1041.0,Semi-Furnished,North,Under Construction,7,0,3,Mumbai,3767.53,Affordable (<50L),97.9
+Navi Mumbai,2,80.81,911.0,Semi-Furnished,East,Ready to Move,5,2,2,Mumbai,8870.47,Mid-Range (50-100L),95.1
+Andheri East,2,129.52,834.0,Furnished,East,Under Construction,9,1,3,Mumbai,15529.98,Premium (1-2Cr),91.9
+Ulhasnagar,2,39.39,1090.0,Furnished,West,Under Construction,24,2,1,Mumbai,3613.76,Affordable (<50L),97.9
+Thane West,4,148.66,1507.0,Unfurnished,East,Under Construction,22,2,3,Mumbai,9864.63,Premium (1-2Cr),90.6
+Parel,5,823.79,1807.0,Furnished,North,Under Construction,18,0,2,Mumbai,45588.82,Luxury (2Cr+),45.2
+Mira Road,4,90.31,1443.0,Furnished,West,Under Construction,12,2,3,Mumbai,6258.49,Mid-Range (50-100L),94.5
+Airoli,2,53.18,833.0,Unfurnished,South,Under Construction,12,0,1,Mumbai,6384.15,Mid-Range (50-100L),97.0
+Kandivali West,5,274.02,1548.0,Semi-Furnished,West,Under Construction,2,1,2,Mumbai,17701.55,Luxury (2Cr+),82.2
+Andheri West,2,90.84,1085.0,Furnished,East,Ready to Move,8,2,3,Mumbai,8372.35,Mid-Range (50-100L),94.5
+Nalasopara,3,45.47,1159.0,Unfurnished,South,Under Construction,22,0,1,Mumbai,3923.21,Affordable (<50L),97.5
+Mira Road,2,39.78,1121.0,Furnished,West,Ready to Move,13,2,2,Mumbai,3548.62,Affordable (<50L),97.9
+Malad West,5,221.81,1477.0,Furnished,East,Ready to Move,29,2,2,Mumbai,15017.6,Luxury (2Cr+),85.7
+Dadar,3,200.5,901.0,Unfurnished,West,Under Construction,2,2,3,Mumbai,22253.05,Luxury (2Cr+),87.1
+Thane West,5,206.68,1645.0,Semi-Furnished,South,Under Construction,19,2,3,Mumbai,12564.13,Luxury (2Cr+),86.7
+Thane West,3,126.82,1264.0,Furnished,West,Ready to Move,12,2,2,Mumbai,10033.23,Premium (1-2Cr),92.1
+Parel,4,676.95,1032.0,Semi-Furnished,South,Ready to Move,17,2,2,Mumbai,65595.93,Luxury (2Cr+),55.1
+Panvel,3,106.54,872.0,Furnished,North,Ready to Move,19,1,2,Mumbai,12217.89,Premium (1-2Cr),93.4
+Nerul,1,47.1,569.0,Unfurnished,West,Ready to Move,10,2,1,Mumbai,8277.68,Affordable (<50L),97.4
+Vikhroli,3,93.39,928.0,Semi-Furnished,North,Ready to Move,11,1,3,Mumbai,10063.58,Mid-Range (50-100L),94.3
+Nalasopara,3,44.34,1364.0,Furnished,East,Under Construction,1,0,2,Mumbai,3250.73,Affordable (<50L),97.6
+Andheri East,3,172.91,1494.0,Unfurnished,North,Ready to Move,13,1,2,Mumbai,11573.63,Premium (1-2Cr),89.0
+Nalasopara,2,15.88,744.0,Semi-Furnished,East,Under Construction,25,2,1,Mumbai,2134.41,Affordable (<50L),99.5
+Malad East,4,137.71,1418.0,Furnished,West,Ready to Move,3,0,2,Mumbai,9711.57,Premium (1-2Cr),91.3
+Bandra East,1,78.1,565.0,Furnished,East,Under Construction,15,0,1,Mumbai,13823.01,Mid-Range (50-100L),95.3
+Vashi,2,72.15,1175.0,Furnished,East,Ready to Move,28,1,2,Mumbai,6140.43,Mid-Range (50-100L),95.7
+Powai,1,60.86,897.0,Unfurnished,South,Under Construction,29,2,3,Mumbai,6784.84,Mid-Range (50-100L),96.5
+Malad East,1,35.91,563.0,Semi-Furnished,North,Under Construction,6,0,3,Mumbai,6378.33,Affordable (<50L),98.2
+Nerul,1,40.07,759.0,Furnished,East,Ready to Move,10,2,2,Mumbai,5279.31,Affordable (<50L),97.9
+Thane East,1,22.16,836.0,Semi-Furnished,East,Under Construction,29,2,1,Mumbai,2650.72,Affordable (<50L),99.1
+Malad West,2,96.03,746.0,Furnished,South,Ready to Move,27,0,1,Mumbai,12872.65,Mid-Range (50-100L),94.1
+Bandra West,4,826.1,1028.0,Unfurnished,South,Ready to Move,5,2,2,Mumbai,80359.92,Luxury (2Cr+),45.1
+Kalyan,3,45.95,853.0,Unfurnished,East,Under Construction,26,1,3,Mumbai,5386.87,Affordable (<50L),97.5
+Powai,2,248.69,731.0,Furnished,South,Under Construction,29,2,2,Mumbai,34020.52,Luxury (2Cr+),83.9
+Bandra West,3,548.29,1203.0,Furnished,East,Ready to Move,6,2,3,Mumbai,45576.89,Luxury (2Cr+),63.7
+Dombivli,4,72.05,1191.0,Furnished,West,Under Construction,27,1,3,Mumbai,6049.54,Mid-Range (50-100L),95.7
+Kandivali West,2,107.49,1136.0,Unfurnished,North,Ready to Move,10,1,2,Mumbai,9462.15,Premium (1-2Cr),93.3
+Chembur,3,116.74,1382.0,Semi-Furnished,East,Ready to Move,12,2,2,Mumbai,8447.18,Premium (1-2Cr),92.7
+Ghatkopar East,1,46.43,591.0,Semi-Furnished,South,Under Construction,24,0,2,Mumbai,7856.18,Affordable (<50L),97.5
+Borivali East,2,81.86,971.0,Semi-Furnished,North,Under Construction,28,2,3,Mumbai,8430.48,Mid-Range (50-100L),95.1
+Kurla,3,173.6,1297.0,Semi-Furnished,South,Ready to Move,17,1,1,Mumbai,13384.73,Premium (1-2Cr),88.9
+Malad East,3,104.17,1254.0,Unfurnished,West,Under Construction,14,2,3,Mumbai,8307.02,Premium (1-2Cr),93.6
+Goregaon East,2,110.4,997.0,Unfurnished,East,Ready to Move,1,1,2,Mumbai,11073.22,Premium (1-2Cr),93.2
+Goregaon West,5,160.22,1301.0,Semi-Furnished,East,Under Construction,17,2,3,Mumbai,12315.14,Premium (1-2Cr),89.8
+Nalasopara,3,56.41,1044.0,Semi-Furnished,North,Under Construction,20,1,2,Mumbai,5403.26,Mid-Range (50-100L),96.8
+Worli,2,582.31,776.0,Furnished,East,Ready to Move,16,0,2,Mumbai,75039.95,Luxury (2Cr+),61.4
+Kharghar,3,115.57,1137.0,Unfurnished,East,Under Construction,28,1,2,Mumbai,10164.47,Premium (1-2Cr),92.8
+Ulhasnagar,1,15.82,679.0,Unfurnished,South,Under Construction,27,1,1,Mumbai,2329.9,Affordable (<50L),99.5
+Thane West,2,52.6,927.0,Semi-Furnished,South,Ready to Move,3,0,3,Mumbai,5674.22,Mid-Range (50-100L),97.0
+Vashi,5,254.08,1907.0,Furnished,West,Under Construction,7,0,3,Mumbai,13323.54,Luxury (2Cr+),83.5
+Kharghar,2,66.15,813.0,Unfurnished,West,Under Construction,21,0,2,Mumbai,8136.53,Mid-Range (50-100L),96.1
+Vashi,3,118.45,1146.0,Furnished,West,Under Construction,18,1,2,Mumbai,10335.95,Premium (1-2Cr),92.6
+Dadar,1,145.74,868.0,Unfurnished,West,Ready to Move,24,0,1,Mumbai,16790.32,Premium (1-2Cr),90.8
+Goregaon East,4,207.91,1015.0,Semi-Furnished,West,Under Construction,20,0,2,Mumbai,20483.74,Luxury (2Cr+),86.6
+Dahisar,1,26.0,731.0,Furnished,East,Ready to Move,1,0,3,Mumbai,3556.77,Affordable (<50L),98.8
+Parel,3,315.53,1485.0,Semi-Furnished,West,Under Construction,18,2,2,Mumbai,21247.81,Luxury (2Cr+),79.4
+Dahisar,2,79.91,997.0,Furnished,North,Ready to Move,9,1,3,Mumbai,8015.05,Mid-Range (50-100L),95.2
+Kandivali East,3,125.98,1371.0,Semi-Furnished,North,Ready to Move,7,2,3,Mumbai,9188.91,Premium (1-2Cr),92.1
+Mulund East,2,88.03,1092.0,Unfurnished,North,Ready to Move,9,1,2,Mumbai,8061.36,Mid-Range (50-100L),94.7
+Thane East,3,102.06,1273.0,Furnished,East,Ready to Move,26,2,3,Mumbai,8017.28,Premium (1-2Cr),93.7
+Kandivali East,3,102.43,878.0,Semi-Furnished,West,Under Construction,19,1,3,Mumbai,11666.29,Premium (1-2Cr),93.7
+Ghatkopar East,3,184.74,1273.0,Semi-Furnished,North,Ready to Move,29,0,1,Mumbai,14512.18,Premium (1-2Cr),88.2
+Kandivali West,1,53.35,805.0,Furnished,South,Under Construction,5,1,3,Mumbai,6627.33,Mid-Range (50-100L),97.0
+Vashi,1,60.08,753.0,Semi-Furnished,East,Under Construction,4,1,2,Mumbai,7978.75,Mid-Range (50-100L),96.5
+Mira Road,3,95.16,1495.0,Semi-Furnished,West,Ready to Move,12,2,3,Mumbai,6365.22,Mid-Range (50-100L),94.2
+Thane East,3,121.72,1003.0,Semi-Furnished,South,Under Construction,16,1,2,Mumbai,12135.59,Premium (1-2Cr),92.4
+Vikhroli,1,29.61,849.0,Furnished,East,Under Construction,22,0,1,Mumbai,3487.63,Affordable (<50L),98.6
+Kharghar,1,20.57,778.0,Furnished,East,Under Construction,2,2,3,Mumbai,2643.96,Affordable (<50L),99.2
+Borivali West,1,46.04,596.0,Furnished,North,Ready to Move,11,1,2,Mumbai,7724.83,Affordable (<50L),97.5
+Vikhroli,5,189.56,1786.0,Furnished,East,Ready to Move,20,2,3,Mumbai,10613.66,Premium (1-2Cr),87.8
+Andheri West,4,200.09,1134.0,Furnished,North,Ready to Move,15,0,3,Mumbai,17644.62,Luxury (2Cr+),87.1
+Vasai,1,22.66,832.0,Unfurnished,North,Under Construction,12,2,3,Mumbai,2723.56,Affordable (<50L),99.0
+Kharghar,1,44.64,593.0,Furnished,South,Under Construction,29,0,2,Mumbai,7527.82,Affordable (<50L),97.6
+Borivali East,2,91.36,858.0,Furnished,North,Under Construction,12,1,3,Mumbai,10648.02,Mid-Range (50-100L),94.4
+Vashi,1,39.96,891.0,Unfurnished,North,Under Construction,15,2,2,Mumbai,4484.85,Affordable (<50L),97.9
+Nerul,3,84.99,869.0,Furnished,South,Under Construction,18,1,3,Mumbai,9780.21,Mid-Range (50-100L),94.9
+Kandivali East,1,27.27,806.0,Furnished,South,Under Construction,5,2,2,Mumbai,3383.37,Affordable (<50L),98.7
+Andheri West,3,296.15,1093.0,Semi-Furnished,West,Under Construction,17,1,1,Mumbai,27095.15,Luxury (2Cr+),80.7
+Goregaon East,3,184.23,1447.0,Furnished,North,Ready to Move,16,1,3,Mumbai,12731.86,Premium (1-2Cr),88.2
+Borivali West,4,108.15,1526.0,Semi-Furnished,South,Under Construction,9,0,1,Mumbai,7087.16,Premium (1-2Cr),93.3
+Dadar,4,272.57,1231.0,Unfurnished,South,Under Construction,29,1,3,Mumbai,22142.16,Luxury (2Cr+),82.3
+Virar,2,39.43,1081.0,Furnished,North,Ready to Move,13,2,1,Mumbai,3647.55,Affordable (<50L),97.9
+Vashi,3,156.05,1063.0,Furnished,South,Under Construction,7,2,3,Mumbai,14680.15,Premium (1-2Cr),90.1
+Navi Mumbai,4,163.51,1437.0,Unfurnished,South,Under Construction,26,2,2,Mumbai,11378.57,Premium (1-2Cr),89.6
+Kandivali East,5,216.31,1625.0,Furnished,West,Under Construction,16,1,3,Mumbai,13311.38,Luxury (2Cr+),86.0
+Kurla,5,148.52,1292.0,Furnished,North,Under Construction,4,2,2,Mumbai,11495.36,Premium (1-2Cr),90.6
+Nerul,3,141.46,1315.0,Unfurnished,East,Ready to Move,23,2,3,Mumbai,10757.41,Premium (1-2Cr),91.1
+Mulund West,4,208.89,1304.0,Furnished,East,Under Construction,19,1,3,Mumbai,16019.17,Luxury (2Cr+),86.5
+Bandra East,2,164.16,854.0,Unfurnished,South,Ready to Move,8,1,3,Mumbai,19222.48,Premium (1-2Cr),89.5
+Chembur,1,49.2,892.0,Semi-Furnished,East,Under Construction,11,2,3,Mumbai,5515.7,Affordable (<50L),97.3
+Malad East,3,120.84,1311.0,Furnished,West,Ready to Move,10,1,1,Mumbai,9217.39,Premium (1-2Cr),92.5
+Powai,3,291.37,1185.0,Furnished,West,Ready to Move,15,1,2,Mumbai,24588.19,Luxury (2Cr+),81.0
+Kandivali East,3,95.69,1004.0,Furnished,South,Under Construction,24,2,3,Mumbai,9530.88,Mid-Range (50-100L),94.1
+Nalasopara,5,92.87,1878.0,Semi-Furnished,East,Ready to Move,18,0,1,Mumbai,4945.15,Mid-Range (50-100L),94.3
+Ulhasnagar,1,13.67,737.0,Semi-Furnished,South,Ready to Move,15,2,3,Mumbai,1854.82,Affordable (<50L),99.7
+Kandivali West,5,170.46,1750.0,Furnished,West,Ready to Move,2,2,3,Mumbai,9740.57,Premium (1-2Cr),89.1
+Thane East,2,59.91,923.0,Furnished,East,Ready to Move,7,1,2,Mumbai,6490.79,Mid-Range (50-100L),96.5
+Bandra East,5,430.68,2010.0,Furnished,West,Under Construction,8,0,1,Mumbai,21426.87,Luxury (2Cr+),71.6
+Mira Road,2,51.26,883.0,Semi-Furnished,East,Ready to Move,4,0,1,Mumbai,5805.21,Mid-Range (50-100L),97.1
+Andheri East,2,71.76,1020.0,Semi-Furnished,South,Under Construction,3,1,3,Mumbai,7035.29,Mid-Range (50-100L),95.8
+Bandra West,3,551.06,1496.0,Semi-Furnished,West,Ready to Move,3,1,3,Mumbai,36835.56,Luxury (2Cr+),63.5
+Kandivali East,3,113.23,1472.0,Furnished,East,Ready to Move,15,0,2,Mumbai,7692.26,Premium (1-2Cr),93.0
+Chembur,4,269.35,1001.0,Unfurnished,South,Under Construction,13,2,3,Mumbai,26908.09,Luxury (2Cr+),82.5
+Dahisar,3,126.95,1453.0,Furnished,East,Under Construction,21,1,2,Mumbai,8737.1,Premium (1-2Cr),92.0
+Kandivali East,3,138.63,1246.0,Semi-Furnished,South,Under Construction,29,1,3,Mumbai,11126.0,Premium (1-2Cr),91.3
+Dombivli,3,50.21,1084.0,Furnished,West,Ready to Move,25,0,1,Mumbai,4631.92,Mid-Range (50-100L),97.2
+Goregaon West,2,98.14,924.0,Semi-Furnished,North,Under Construction,3,1,2,Mumbai,10621.21,Mid-Range (50-100L),94.0
+Mulund West,3,146.89,1104.0,Unfurnished,East,Under Construction,6,1,3,Mumbai,13305.25,Premium (1-2Cr),90.7
+Ulhasnagar,3,43.17,1319.0,Unfurnished,South,Ready to Move,20,1,1,Mumbai,3272.93,Affordable (<50L),97.7
+Mulund West,2,57.69,777.0,Unfurnished,West,Under Construction,20,1,2,Mumbai,7424.71,Mid-Range (50-100L),96.7
+Dadar,1,71.93,852.0,Unfurnished,West,Ready to Move,14,1,3,Mumbai,8442.49,Mid-Range (50-100L),95.7
+Bandra West,2,299.67,773.0,Furnished,West,Under Construction,21,1,3,Mumbai,38767.14,Luxury (2Cr+),80.4
+Dadar,2,134.39,1088.0,Furnished,North,Under Construction,20,1,3,Mumbai,12352.02,Premium (1-2Cr),91.5
+Borivali East,1,37.88,603.0,Unfurnished,East,Ready to Move,2,1,1,Mumbai,6281.92,Affordable (<50L),98.0
+Andheri East,1,35.21,793.0,Furnished,North,Ready to Move,9,2,3,Mumbai,4440.1,Affordable (<50L),98.2
+Malad West,2,68.27,1046.0,Furnished,South,Under Construction,7,0,3,Mumbai,6526.77,Mid-Range (50-100L),96.0
+Nalasopara,2,19.28,1028.0,Semi-Furnished,North,Under Construction,5,2,3,Mumbai,1875.49,Affordable (<50L),99.3
+Ulhasnagar,3,42.92,1163.0,Unfurnished,East,Ready to Move,22,0,2,Mumbai,3690.46,Affordable (<50L),97.7
+Worli,2,246.91,830.0,Semi-Furnished,North,Under Construction,24,2,3,Mumbai,29748.19,Luxury (2Cr+),84.0
+Andheri West,2,180.12,1015.0,Furnished,West,Ready to Move,13,0,2,Mumbai,17745.81,Premium (1-2Cr),88.5
+Goregaon West,2,136.61,749.0,Semi-Furnished,West,Under Construction,2,1,2,Mumbai,18238.99,Premium (1-2Cr),91.4
+Kurla,2,110.45,896.0,Semi-Furnished,East,Ready to Move,9,0,1,Mumbai,12327.01,Premium (1-2Cr),93.2
+Andheri West,1,66.26,639.0,Semi-Furnished,West,Under Construction,28,0,3,Mumbai,10369.33,Mid-Range (50-100L),96.1
+Goregaon West,3,181.06,1432.0,Furnished,North,Ready to Move,28,2,3,Mumbai,12643.85,Premium (1-2Cr),88.4
+Navi Mumbai,2,91.62,956.0,Furnished,South,Ready to Move,8,0,2,Mumbai,9583.68,Mid-Range (50-100L),94.4
+Andheri West,2,88.55,706.0,Furnished,South,Ready to Move,8,1,3,Mumbai,12542.49,Mid-Range (50-100L),94.6
+Goregaon West,2,130.62,1031.0,Unfurnished,North,Under Construction,5,0,2,Mumbai,12669.25,Premium (1-2Cr),91.8
+Virar,1,12.28,819.0,Furnished,East,Under Construction,15,1,2,Mumbai,1499.39,Affordable (<50L),99.7
+Mira Road,2,69.18,1022.0,Semi-Furnished,North,Under Construction,18,1,3,Mumbai,6769.08,Mid-Range (50-100L),95.9
+Mira Road,3,56.2,1166.0,Unfurnished,South,Under Construction,28,1,2,Mumbai,4819.9,Mid-Range (50-100L),96.8
+Malad East,1,52.77,629.0,Furnished,South,Ready to Move,14,1,1,Mumbai,8389.51,Mid-Range (50-100L),97.0
+Airoli,2,52.03,761.0,Unfurnished,West,Ready to Move,24,0,2,Mumbai,6837.06,Mid-Range (50-100L),97.1
+Ghatkopar East,3,174.28,1018.0,Unfurnished,West,Ready to Move,13,1,3,Mumbai,17119.84,Premium (1-2Cr),88.9
+Kandivali East,3,112.86,967.0,Unfurnished,South,Under Construction,22,2,1,Mumbai,11671.15,Premium (1-2Cr),93.0
+Airoli,1,22.7,790.0,Unfurnished,West,Ready to Move,15,2,3,Mumbai,2873.42,Affordable (<50L),99.0
+Powai,3,269.26,1234.0,Unfurnished,North,Under Construction,19,2,3,Mumbai,21820.1,Luxury (2Cr+),82.5
+Chembur,3,170.46,1420.0,Furnished,North,Under Construction,10,1,1,Mumbai,12004.23,Premium (1-2Cr),89.1
+Borivali West,2,104.53,750.0,Semi-Furnished,West,Ready to Move,25,1,3,Mumbai,13937.33,Premium (1-2Cr),93.5
+Nalasopara,1,12.19,824.0,Semi-Furnished,West,Under Construction,26,1,3,Mumbai,1479.37,Affordable (<50L),99.8
+Thane West,4,195.3,1294.0,Unfurnished,South,Ready to Move,23,1,2,Mumbai,15092.74,Premium (1-2Cr),87.4
+Vasai,5,77.62,1576.0,Semi-Furnished,South,Under Construction,3,1,3,Mumbai,4925.13,Mid-Range (50-100L),95.4
+Virar,2,16.05,789.0,Semi-Furnished,West,Under Construction,4,0,3,Mumbai,2034.22,Affordable (<50L),99.5
+Kharghar,1,33.88,718.0,Semi-Furnished,North,Under Construction,5,1,3,Mumbai,4718.66,Affordable (<50L),98.3
+Bandra East,3,320.31,1290.0,Semi-Furnished,North,Ready to Move,28,2,1,Mumbai,24830.23,Luxury (2Cr+),79.0
+Navi Mumbai,3,133.02,1335.0,Semi-Furnished,West,Ready to Move,4,2,3,Mumbai,9964.04,Premium (1-2Cr),91.6
+Mira Road,3,100.96,1003.0,Unfurnished,South,Ready to Move,27,2,2,Mumbai,10065.8,Premium (1-2Cr),93.8
+Dombivli,1,23.48,724.0,Unfurnished,North,Ready to Move,6,2,3,Mumbai,3243.09,Affordable (<50L),99.0
+Goregaon West,3,169.77,1232.0,Furnished,South,Ready to Move,10,1,2,Mumbai,13780.03,Premium (1-2Cr),89.2
+Powai,1,93.11,755.0,Semi-Furnished,East,Ready to Move,13,2,3,Mumbai,12332.45,Mid-Range (50-100L),94.3
+Navi Mumbai,5,249.23,1364.0,Furnished,East,Under Construction,5,0,3,Mumbai,18271.99,Luxury (2Cr+),83.8
+Malad East,2,91.77,1016.0,Semi-Furnished,North,Ready to Move,18,2,1,Mumbai,9032.48,Mid-Range (50-100L),94.4
+Vashi,4,113.04,1046.0,Semi-Furnished,South,Under Construction,28,0,3,Mumbai,10806.88,Premium (1-2Cr),93.0
+Vashi,4,253.58,1055.0,Semi-Furnished,West,Under Construction,28,2,2,Mumbai,24036.02,Luxury (2Cr+),83.5
+Lower Parel,3,590.94,1091.0,Unfurnished,West,Ready to Move,13,1,3,Mumbai,54164.99,Luxury (2Cr+),60.9
+Malad West,2,58.32,731.0,Semi-Furnished,North,Ready to Move,21,1,1,Mumbai,7978.11,Mid-Range (50-100L),96.7
+Worli,3,406.67,1004.0,Unfurnished,South,Under Construction,15,2,3,Mumbai,40504.98,Luxury (2Cr+),73.2
+Parel,3,296.39,1325.0,Semi-Furnished,East,Under Construction,5,2,2,Mumbai,22369.06,Luxury (2Cr+),80.7
+Vasai,3,45.22,1051.0,Furnished,South,Under Construction,25,0,1,Mumbai,4302.57,Affordable (<50L),97.5
+Dombivli,1,24.96,696.0,Furnished,North,Under Construction,23,0,1,Mumbai,3586.21,Affordable (<50L),98.9
+Vashi,1,42.95,740.0,Unfurnished,West,Ready to Move,17,1,2,Mumbai,5804.05,Affordable (<50L),97.7
+Andheri West,5,249.73,2048.0,Furnished,West,Under Construction,2,2,3,Mumbai,12193.85,Luxury (2Cr+),83.8
+Nalasopara,3,33.85,1362.0,Semi-Furnished,South,Ready to Move,10,2,2,Mumbai,2485.32,Affordable (<50L),98.3
+Ghatkopar East,3,173.5,1204.0,Semi-Furnished,South,Under Construction,15,0,3,Mumbai,14410.3,Premium (1-2Cr),88.9
+Lower Parel,4,588.89,1601.0,Furnished,North,Under Construction,25,1,2,Mumbai,36782.64,Luxury (2Cr+),61.0
+Kandivali East,1,32.94,829.0,Unfurnished,South,Ready to Move,25,2,2,Mumbai,3973.46,Affordable (<50L),98.4
+Navi Mumbai,2,107.51,802.0,Semi-Furnished,South,Under Construction,28,0,3,Mumbai,13405.24,Premium (1-2Cr),93.3
+Vasai,2,29.37,1021.0,Unfurnished,South,Under Construction,8,1,2,Mumbai,2876.59,Affordable (<50L),98.6
+Kharghar,3,118.25,1056.0,Unfurnished,East,Ready to Move,27,1,2,Mumbai,11197.92,Premium (1-2Cr),92.6
+Dahisar,3,64.34,981.0,Furnished,South,Under Construction,16,2,3,Mumbai,6558.61,Mid-Range (50-100L),96.2
+Bandra East,3,405.0,1407.0,Furnished,South,Ready to Move,14,2,1,Mumbai,28784.65,Luxury (2Cr+),73.4
+Panvel,1,17.9,859.0,Unfurnished,North,Ready to Move,27,0,1,Mumbai,2083.82,Affordable (<50L),99.4
+Bandra West,1,103.67,838.0,Semi-Furnished,West,Under Construction,5,2,3,Mumbai,12371.12,Premium (1-2Cr),93.6
+Lower Parel,4,713.15,1433.0,Unfurnished,South,Under Construction,25,2,2,Mumbai,49766.22,Luxury (2Cr+),52.6
+Malad West,2,73.55,1110.0,Semi-Furnished,West,Under Construction,21,1,1,Mumbai,6626.13,Mid-Range (50-100L),95.6
+Panvel,2,34.67,874.0,Unfurnished,West,Under Construction,11,0,1,Mumbai,3966.82,Affordable (<50L),98.2
+Borivali West,2,49.77,1070.0,Semi-Furnished,West,Ready to Move,8,2,1,Mumbai,4651.4,Affordable (<50L),97.2
+Kharghar,1,40.6,648.0,Unfurnished,North,Under Construction,26,0,3,Mumbai,6265.43,Affordable (<50L),97.8
+Ulhasnagar,4,46.59,1523.0,Semi-Furnished,South,Under Construction,17,2,1,Mumbai,3059.09,Affordable (<50L),97.4
+Ulhasnagar,1,15.81,856.0,Unfurnished,North,Ready to Move,27,1,3,Mumbai,1846.96,Affordable (<50L),99.5
+Kandivali East,2,67.11,1101.0,Unfurnished,South,Ready to Move,25,1,2,Mumbai,6095.37,Mid-Range (50-100L),96.1
+Virar,3,29.54,1310.0,Semi-Furnished,North,Ready to Move,10,2,1,Mumbai,2254.96,Affordable (<50L),98.6
+Lower Parel,2,395.63,1011.0,Furnished,North,Under Construction,23,0,3,Mumbai,39132.54,Luxury (2Cr+),74.0
+Navi Mumbai,2,47.88,1052.0,Furnished,South,Under Construction,17,1,1,Mumbai,4551.33,Affordable (<50L),97.4
+Dombivli,3,51.33,1386.0,Furnished,North,Ready to Move,27,1,1,Mumbai,3703.46,Mid-Range (50-100L),97.1
+Bandra East,2,255.97,1139.0,Furnished,West,Under Construction,9,2,3,Mumbai,22473.22,Luxury (2Cr+),83.4
+Chembur,2,87.03,1095.0,Furnished,North,Ready to Move,5,0,2,Mumbai,7947.95,Mid-Range (50-100L),94.7
+Dombivli,2,27.38,1155.0,Unfurnished,East,Under Construction,24,0,3,Mumbai,2370.56,Affordable (<50L),98.7
+Nerul,3,101.48,1132.0,Unfurnished,North,Ready to Move,19,1,3,Mumbai,8964.66,Premium (1-2Cr),93.8
+Kurla,3,139.92,1260.0,Furnished,East,Ready to Move,4,2,3,Mumbai,11104.76,Premium (1-2Cr),91.2
+Lower Parel,2,252.28,944.0,Semi-Furnished,South,Under Construction,24,1,2,Mumbai,26724.58,Luxury (2Cr+),83.6
+Andheri West,3,234.14,896.0,Furnished,West,Ready to Move,29,1,2,Mumbai,26131.7,Luxury (2Cr+),84.8
+Worli,3,488.98,1155.0,Furnished,East,Ready to Move,17,2,2,Mumbai,42335.93,Luxury (2Cr+),67.7
+Kharghar,3,101.86,1199.0,Furnished,West,Ready to Move,8,2,3,Mumbai,8495.41,Premium (1-2Cr),93.7
+Dombivli,5,101.66,1567.0,Semi-Furnished,West,Ready to Move,22,1,1,Mumbai,6487.56,Premium (1-2Cr),93.7
+Malad West,3,93.01,1251.0,Furnished,North,Ready to Move,7,2,1,Mumbai,7434.85,Mid-Range (50-100L),94.3
+Nalasopara,2,27.06,1165.0,Furnished,East,Under Construction,12,2,3,Mumbai,2322.75,Affordable (<50L),98.8
+Kandivali East,3,122.36,1018.0,Furnished,South,Ready to Move,13,1,3,Mumbai,12019.65,Premium (1-2Cr),92.4
+Borivali West,3,145.78,851.0,Semi-Furnished,East,Ready to Move,23,0,3,Mumbai,17130.43,Premium (1-2Cr),90.8
+Thane East,1,21.09,684.0,Unfurnished,South,Under Construction,5,2,3,Mumbai,3083.33,Affordable (<50L),99.2
+Dahisar,2,80.12,902.0,Unfurnished,North,Ready to Move,7,1,3,Mumbai,8882.48,Mid-Range (50-100L),95.2
+Malad East,1,51.53,760.0,Semi-Furnished,West,Ready to Move,22,0,1,Mumbai,6780.26,Mid-Range (50-100L),97.1
+Nalasopara,2,34.74,760.0,Semi-Furnished,East,Under Construction,3,1,2,Mumbai,4571.05,Affordable (<50L),98.2
+Thane West,4,135.27,1236.0,Furnished,North,Ready to Move,15,1,3,Mumbai,10944.17,Premium (1-2Cr),91.5
+Panvel,1,19.08,713.0,Furnished,West,Under Construction,21,1,2,Mumbai,2676.02,Affordable (<50L),99.3
+Thane East,2,72.34,838.0,Furnished,West,Under Construction,28,1,2,Mumbai,8632.46,Mid-Range (50-100L),95.7
+Bandra West,4,615.49,1255.0,Semi-Furnished,North,Ready to Move,22,0,2,Mumbai,49043.03,Luxury (2Cr+),59.2
+Lower Parel,2,314.98,722.0,Furnished,East,Ready to Move,20,2,3,Mumbai,43626.04,Luxury (2Cr+),79.4
+Malad East,1,43.74,669.0,Unfurnished,North,Under Construction,11,0,1,Mumbai,6538.12,Affordable (<50L),97.6
+Virar,2,31.4,1121.0,Semi-Furnished,East,Ready to Move,4,0,3,Mumbai,2801.07,Affordable (<50L),98.5
+Borivali West,3,155.57,1196.0,Furnished,South,Under Construction,27,1,2,Mumbai,13007.53,Premium (1-2Cr),90.1
+Worli,5,955.89,1448.0,Furnished,North,Ready to Move,10,0,2,Mumbai,66014.5,Luxury (2Cr+),36.3
+Vasai,5,78.11,1600.0,Semi-Furnished,South,Under Construction,28,0,1,Mumbai,4881.88,Mid-Range (50-100L),95.3
+Kurla,2,54.1,1185.0,Semi-Furnished,South,Ready to Move,5,0,1,Mumbai,4565.4,Mid-Range (50-100L),96.9
+Powai,1,60.96,636.0,Unfurnished,North,Ready to Move,10,1,3,Mumbai,9584.91,Mid-Range (50-100L),96.5
+Panvel,2,73.42,979.0,Unfurnished,East,Under Construction,24,0,2,Mumbai,7499.49,Mid-Range (50-100L),95.6
+Powai,1,85.65,691.0,Furnished,North,Under Construction,18,1,1,Mumbai,12395.08,Mid-Range (50-100L),94.8
+Vashi,5,225.37,1844.0,Furnished,East,Ready to Move,4,1,2,Mumbai,12221.8,Luxury (2Cr+),85.4
+Worli,2,455.68,877.0,Unfurnished,South,Under Construction,21,1,2,Mumbai,51958.95,Luxury (2Cr+),70.0
+Nalasopara,2,36.72,838.0,Semi-Furnished,West,Under Construction,6,0,2,Mumbai,4381.86,Affordable (<50L),98.1
+Navi Mumbai,5,271.67,1609.0,Semi-Furnished,North,Ready to Move,26,1,2,Mumbai,16884.4,Luxury (2Cr+),82.3
+Dombivli,3,59.83,1244.0,Furnished,North,Under Construction,17,2,3,Mumbai,4809.49,Mid-Range (50-100L),96.6
+Vikhroli,1,37.75,761.0,Unfurnished,South,Ready to Move,13,2,1,Mumbai,4960.58,Affordable (<50L),98.0
+Kandivali East,2,44.18,1020.0,Furnished,South,Under Construction,19,2,2,Mumbai,4331.37,Affordable (<50L),97.6
+Borivali West,3,73.63,1160.0,Furnished,West,Ready to Move,3,1,2,Mumbai,6347.41,Mid-Range (50-100L),95.6
+Panvel,1,21.84,807.0,Semi-Furnished,East,Under Construction,15,2,2,Mumbai,2706.32,Affordable (<50L),99.1
+Kandivali East,5,225.99,1430.0,Unfurnished,North,Ready to Move,4,0,3,Mumbai,15803.5,Luxury (2Cr+),85.4
+Andheri West,2,80.68,1169.0,Furnished,North,Ready to Move,4,2,2,Mumbai,6901.63,Mid-Range (50-100L),95.2
+Dahisar,3,89.84,900.0,Semi-Furnished,North,Under Construction,11,2,2,Mumbai,9982.22,Mid-Range (50-100L),94.5
+Vikhroli,1,24.19,585.0,Semi-Furnished,South,Under Construction,8,0,2,Mumbai,4135.04,Affordable (<50L),98.9
+Mulund East,3,77.05,897.0,Furnished,South,Ready to Move,28,1,2,Mumbai,8589.74,Mid-Range (50-100L),95.4
+Kandivali East,3,144.06,1113.0,Unfurnished,West,Ready to Move,7,0,1,Mumbai,12943.4,Premium (1-2Cr),90.9
+Thane West,4,112.56,1027.0,Unfurnished,East,Ready to Move,25,0,1,Mumbai,10960.08,Premium (1-2Cr),93.0
+Nerul,5,210.81,1744.0,Semi-Furnished,West,Under Construction,28,1,3,Mumbai,12087.73,Luxury (2Cr+),86.4
+Vashi,3,146.53,928.0,Unfurnished,North,Under Construction,18,2,2,Mumbai,15789.87,Premium (1-2Cr),90.7
+Thane East,3,104.99,885.0,Furnished,North,Ready to Move,17,1,3,Mumbai,11863.28,Premium (1-2Cr),93.5
+Parel,1,100.45,797.0,Unfurnished,South,Under Construction,8,0,3,Mumbai,12603.51,Premium (1-2Cr),93.8
+Kurla,4,152.99,1216.0,Unfurnished,West,Under Construction,4,1,2,Mumbai,12581.41,Premium (1-2Cr),90.3
+Powai,2,236.13,889.0,Unfurnished,East,Ready to Move,26,2,2,Mumbai,26561.3,Luxury (2Cr+),84.7
+Kurla,1,57.63,845.0,Unfurnished,West,Ready to Move,23,0,3,Mumbai,6820.12,Mid-Range (50-100L),96.7
+Powai,2,244.77,1081.0,Furnished,South,Ready to Move,25,1,1,Mumbai,22642.92,Luxury (2Cr+),84.1
+Panvel,2,64.75,1022.0,Semi-Furnished,East,Ready to Move,22,2,3,Mumbai,6335.62,Mid-Range (50-100L),96.2
+Ulhasnagar,1,15.61,820.0,Furnished,South,Ready to Move,9,0,2,Mumbai,1903.66,Affordable (<50L),99.5
+Vasai,2,45.51,806.0,Furnished,West,Ready to Move,22,1,1,Mumbai,5646.4,Affordable (<50L),97.5
+Mira Road,3,91.76,1042.0,Unfurnished,South,Under Construction,3,1,3,Mumbai,8806.14,Mid-Range (50-100L),94.4
+Panvel,3,75.0,1226.0,Furnished,South,Ready to Move,3,0,1,Mumbai,6117.46,Mid-Range (50-100L),95.5
+Malad East,2,64.59,1118.0,Semi-Furnished,East,Ready to Move,6,1,1,Mumbai,5777.28,Mid-Range (50-100L),96.2
+Mira Road,5,83.77,1849.0,Semi-Furnished,East,Under Construction,22,0,2,Mumbai,4530.56,Mid-Range (50-100L),94.9
+Dadar,2,127.5,899.0,Furnished,South,Ready to Move,28,2,1,Mumbai,14182.42,Premium (1-2Cr),92.0
+Dahisar,5,195.0,1697.0,Semi-Furnished,North,Ready to Move,9,1,3,Mumbai,11490.87,Premium (1-2Cr),87.5
+Borivali East,3,61.45,1041.0,Furnished,North,Under Construction,7,0,3,Mumbai,5902.98,Mid-Range (50-100L),96.4
+Mulund East,2,91.31,1187.0,Unfurnished,North,Ready to Move,11,0,1,Mumbai,7692.5,Mid-Range (50-100L),94.4
+Kandivali East,3,78.8,1435.0,Furnished,East,Ready to Move,2,1,3,Mumbai,5491.29,Mid-Range (50-100L),95.3
+Powai,3,299.15,1228.0,Furnished,North,Ready to Move,24,1,2,Mumbai,24360.75,Luxury (2Cr+),80.5
+Mulund West,3,124.59,996.0,Unfurnished,West,Ready to Move,26,0,2,Mumbai,12509.04,Premium (1-2Cr),92.2
+Navi Mumbai,2,76.91,1153.0,Unfurnished,South,Ready to Move,11,0,1,Mumbai,6670.42,Mid-Range (50-100L),95.4
+Virar,3,55.54,1200.0,Unfurnished,East,Under Construction,18,1,1,Mumbai,4628.33,Mid-Range (50-100L),96.8
+Borivali West,2,83.96,924.0,Semi-Furnished,East,Under Construction,6,2,2,Mumbai,9086.58,Mid-Range (50-100L),94.9
+Mulund West,5,265.73,1222.0,Semi-Furnished,West,Under Construction,18,1,2,Mumbai,21745.5,Luxury (2Cr+),82.7
+Powai,2,121.53,923.0,Furnished,North,Under Construction,1,0,2,Mumbai,13166.85,Premium (1-2Cr),92.4
+Powai,1,113.74,635.0,Semi-Furnished,East,Under Construction,4,2,3,Mumbai,17911.81,Premium (1-2Cr),92.9
+Parel,4,378.28,1367.0,Semi-Furnished,North,Ready to Move,23,1,2,Mumbai,27672.28,Luxury (2Cr+),75.2
+Parel,3,274.74,1365.0,Unfurnished,East,Under Construction,17,2,2,Mumbai,20127.47,Luxury (2Cr+),82.1
+Mulund East,1,56.4,687.0,Semi-Furnished,South,Under Construction,4,2,1,Mumbai,8209.61,Mid-Range (50-100L),96.8
+Nalasopara,1,9.49,748.0,Semi-Furnished,East,Under Construction,12,0,3,Mumbai,1268.72,Affordable (<50L),99.9
+Malad East,2,70.14,1163.0,Semi-Furnished,North,Ready to Move,21,1,3,Mumbai,6030.95,Mid-Range (50-100L),95.9
+Dahisar,1,30.61,833.0,Semi-Furnished,East,Ready to Move,25,0,2,Mumbai,3674.67,Affordable (<50L),98.5
+Powai,5,587.03,1296.0,Unfurnished,North,Under Construction,19,0,1,Mumbai,45295.52,Luxury (2Cr+),61.1
+Kurla,3,115.92,1105.0,Furnished,West,Ready to Move,3,0,2,Mumbai,10490.5,Premium (1-2Cr),92.8
+Parel,1,153.12,638.0,Furnished,North,Under Construction,4,0,2,Mumbai,24000.0,Premium (1-2Cr),90.3
+Andheri West,5,463.21,2076.0,Unfurnished,West,Ready to Move,11,0,1,Mumbai,22312.62,Luxury (2Cr+),69.4
+Borivali West,5,256.28,1291.0,Furnished,East,Ready to Move,4,0,2,Mumbai,19851.28,Luxury (2Cr+),83.4
+Panvel,2,43.34,1120.0,Furnished,South,Ready to Move,15,2,2,Mumbai,3869.64,Affordable (<50L),97.7
+Dahisar,2,56.55,1090.0,Semi-Furnished,South,Ready to Move,18,0,3,Mumbai,5188.07,Mid-Range (50-100L),96.8
+Kandivali East,4,121.12,1475.0,Semi-Furnished,South,Under Construction,25,2,3,Mumbai,8211.53,Premium (1-2Cr),92.4
+Mulund West,2,93.51,905.0,Unfurnished,South,Ready to Move,29,1,3,Mumbai,10332.6,Mid-Range (50-100L),94.3
+Vashi,3,156.67,949.0,Furnished,East,Ready to Move,21,2,3,Mumbai,16508.96,Premium (1-2Cr),90.0
+Borivali West,2,91.64,700.0,Furnished,South,Under Construction,6,0,1,Mumbai,13091.43,Mid-Range (50-100L),94.4
+Malad East,3,93.03,1048.0,Furnished,South,Ready to Move,19,1,3,Mumbai,8876.91,Mid-Range (50-100L),94.3
+Lower Parel,3,503.42,1266.0,Furnished,East,Ready to Move,23,1,2,Mumbai,39764.61,Luxury (2Cr+),66.7
+Chembur,2,125.29,1108.0,Semi-Furnished,East,Under Construction,16,2,3,Mumbai,11307.76,Premium (1-2Cr),92.2
+Nalasopara,3,53.74,1203.0,Furnished,South,Ready to Move,23,2,2,Mumbai,4467.17,Mid-Range (50-100L),97.0
+Malad East,1,48.2,754.0,Unfurnished,South,Under Construction,22,0,1,Mumbai,6392.57,Affordable (<50L),97.3
+Bandra East,2,217.98,765.0,Furnished,West,Ready to Move,1,2,1,Mumbai,28494.12,Luxury (2Cr+),85.9
+Mira Road,1,38.39,840.0,Unfurnished,South,Ready to Move,27,1,1,Mumbai,4570.24,Affordable (<50L),98.0
+Nerul,5,232.99,1969.0,Furnished,West,Ready to Move,9,0,1,Mumbai,11832.91,Luxury (2Cr+),84.9
+Powai,3,221.53,1486.0,Unfurnished,East,Ready to Move,17,2,3,Mumbai,14907.81,Luxury (2Cr+),85.7
+Andheri West,1,62.83,607.0,Semi-Furnished,East,Ready to Move,11,2,2,Mumbai,10350.91,Mid-Range (50-100L),96.4
+Dombivli,1,19.88,632.0,Unfurnished,East,Ready to Move,6,0,1,Mumbai,3145.57,Affordable (<50L),99.2
+Dahisar,2,57.05,854.0,Semi-Furnished,South,Ready to Move,16,1,2,Mumbai,6680.33,Mid-Range (50-100L),96.7
+Navi Mumbai,5,241.54,1793.0,Unfurnished,West,Under Construction,22,2,1,Mumbai,13471.28,Luxury (2Cr+),84.3
+Vasai,3,41.27,1256.0,Unfurnished,West,Under Construction,23,2,2,Mumbai,3285.83,Affordable (<50L),97.8
+Thane East,2,72.4,726.0,Furnished,South,Under Construction,21,2,3,Mumbai,9972.45,Mid-Range (50-100L),95.7
+Worli,1,288.3,701.0,Semi-Furnished,East,Under Construction,24,2,1,Mumbai,41126.96,Luxury (2Cr+),81.2
+Navi Mumbai,3,94.91,887.0,Unfurnished,North,Under Construction,1,0,3,Mumbai,10700.11,Mid-Range (50-100L),94.2
+Kandivali West,3,96.8,1122.0,Semi-Furnished,East,Under Construction,20,0,2,Mumbai,8627.45,Mid-Range (50-100L),94.1
+Malad East,4,217.57,1054.0,Furnished,West,Ready to Move,2,1,2,Mumbai,20642.31,Luxury (2Cr+),86.0
+Borivali West,4,180.12,1564.0,Furnished,East,Ready to Move,17,2,2,Mumbai,11516.62,Premium (1-2Cr),88.5
+Bandra West,5,822.99,1853.0,Semi-Furnished,South,Under Construction,10,1,2,Mumbai,44413.92,Luxury (2Cr+),45.3
+Nalasopara,3,24.48,1130.0,Unfurnished,South,Ready to Move,15,1,3,Mumbai,2166.37,Affordable (<50L),98.9
+Kalyan,3,80.79,1013.0,Semi-Furnished,East,Ready to Move,16,1,1,Mumbai,7975.32,Mid-Range (50-100L),95.1
+Mira Road,1,36.79,881.0,Semi-Furnished,East,Under Construction,21,2,2,Mumbai,4175.94,Affordable (<50L),98.1
+Airoli,2,84.15,801.0,Semi-Furnished,South,Under Construction,25,0,3,Mumbai,10505.62,Mid-Range (50-100L),94.9
+Andheri West,1,63.14,878.0,Furnished,South,Ready to Move,1,1,3,Mumbai,7191.34,Mid-Range (50-100L),96.3
+Malad West,5,267.55,1354.0,Semi-Furnished,East,Under Construction,18,2,2,Mumbai,19759.97,Luxury (2Cr+),82.6
+Ulhasnagar,2,33.96,1157.0,Unfurnished,North,Under Construction,29,2,1,Mumbai,2935.18,Affordable (<50L),98.3
+Worli,5,1496.64,1368.0,Unfurnished,East,Ready to Move,10,1,3,Mumbai,109403.51,Luxury (2Cr+),0.0
+Dahisar,3,68.65,1420.0,Unfurnished,South,Ready to Move,1,0,3,Mumbai,4834.51,Mid-Range (50-100L),96.0
+Kalyan,3,50.95,1126.0,Semi-Furnished,West,Ready to Move,11,1,2,Mumbai,4524.87,Mid-Range (50-100L),97.1
+Thane East,3,85.05,1171.0,Unfurnished,East,Under Construction,14,2,2,Mumbai,7263.02,Mid-Range (50-100L),94.9
+Virar,1,11.67,896.0,Unfurnished,West,Under Construction,17,0,3,Mumbai,1302.46,Affordable (<50L),99.8
+Borivali East,4,116.7,1692.0,Furnished,West,Ready to Move,9,1,2,Mumbai,6897.16,Premium (1-2Cr),92.7
+Panvel,1,28.81,637.0,Semi-Furnished,West,Under Construction,4,1,3,Mumbai,4522.76,Affordable (<50L),98.6
+Vasai,1,22.37,652.0,Unfurnished,West,Ready to Move,13,1,3,Mumbai,3430.98,Affordable (<50L),99.1
+Vashi,2,71.54,841.0,Unfurnished,West,Under Construction,18,0,1,Mumbai,8506.54,Mid-Range (50-100L),95.8
+Virar,3,28.87,1186.0,Furnished,West,Under Construction,21,1,2,Mumbai,2434.23,Affordable (<50L),98.6
+Kharghar,2,41.96,845.0,Unfurnished,South,Under Construction,23,0,3,Mumbai,4965.68,Affordable (<50L),97.8
+Vashi,4,234.56,1173.0,Unfurnished,South,Ready to Move,4,1,2,Mumbai,19996.59,Luxury (2Cr+),84.8
+Nalasopara,1,11.68,866.0,Semi-Furnished,North,Ready to Move,3,2,1,Mumbai,1348.73,Affordable (<50L),99.8
+Borivali West,5,246.02,1478.0,Unfurnished,West,Ready to Move,22,0,3,Mumbai,16645.47,Luxury (2Cr+),84.0
+Vasai,3,38.07,1301.0,Unfurnished,South,Ready to Move,13,0,3,Mumbai,2926.21,Affordable (<50L),98.0
+Andheri East,2,145.3,957.0,Semi-Furnished,West,Ready to Move,17,1,2,Mumbai,15182.86,Premium (1-2Cr),90.8
+Ghatkopar East,5,290.9,1265.0,Unfurnished,South,Ready to Move,4,1,1,Mumbai,22996.05,Luxury (2Cr+),81.0
+Lower Parel,3,260.78,1104.0,Unfurnished,West,Ready to Move,28,2,3,Mumbai,23621.38,Luxury (2Cr+),83.0
+Malad West,1,42.8,739.0,Semi-Furnished,South,Ready to Move,10,0,3,Mumbai,5791.61,Affordable (<50L),97.7
+Kalyan,2,40.22,988.0,Furnished,South,Ready to Move,13,0,3,Mumbai,4070.85,Affordable (<50L),97.9
+Kurla,3,92.57,1300.0,Unfurnished,East,Ready to Move,26,0,2,Mumbai,7120.77,Mid-Range (50-100L),94.4
+Kandivali West,5,209.98,1548.0,Furnished,West,Ready to Move,11,0,2,Mumbai,13564.6,Luxury (2Cr+),86.5
+Bandra West,2,255.48,1057.0,Furnished,West,Under Construction,9,0,3,Mumbai,24170.29,Luxury (2Cr+),83.4
+Airoli,4,128.51,1267.0,Furnished,North,Under Construction,29,2,2,Mumbai,10142.86,Premium (1-2Cr),91.9
+Andheri East,4,323.93,1373.0,Furnished,West,Under Construction,25,1,2,Mumbai,23592.86,Luxury (2Cr+),78.8
+Andheri East,3,242.08,1103.0,Furnished,South,Under Construction,15,0,1,Mumbai,21947.42,Luxury (2Cr+),84.3
+Thane East,1,31.86,896.0,Furnished,North,Under Construction,29,2,2,Mumbai,3555.8,Affordable (<50L),98.4
+Bandra West,3,573.46,1245.0,Unfurnished,West,Under Construction,27,2,2,Mumbai,46061.04,Luxury (2Cr+),62.0
+Ghatkopar West,1,56.47,719.0,Unfurnished,South,Under Construction,29,2,1,Mumbai,7853.96,Mid-Range (50-100L),96.8
+Mira Road,3,78.68,1206.0,Furnished,West,Ready to Move,26,0,2,Mumbai,6524.05,Mid-Range (50-100L),95.3
+Vasai,2,38.61,1071.0,Unfurnished,South,Ready to Move,28,1,3,Mumbai,3605.04,Affordable (<50L),98.0
+Thane West,3,116.85,1132.0,Semi-Furnished,South,Under Construction,5,0,2,Mumbai,10322.44,Premium (1-2Cr),92.7
+Goregaon East,5,227.14,1827.0,Unfurnished,East,Under Construction,13,2,2,Mumbai,12432.4,Luxury (2Cr+),85.3
+Chembur,5,269.02,1329.0,Furnished,West,Under Construction,18,2,2,Mumbai,20242.29,Luxury (2Cr+),82.5
+Nerul,1,53.71,701.0,Semi-Furnished,West,Ready to Move,15,2,2,Mumbai,7661.91,Mid-Range (50-100L),97.0
+Chembur,1,54.74,839.0,Furnished,West,Under Construction,13,2,3,Mumbai,6524.43,Mid-Range (50-100L),96.9
+Kandivali West,3,83.97,1355.0,Unfurnished,South,Under Construction,23,2,3,Mumbai,6197.05,Mid-Range (50-100L),94.9
+Vasai,2,31.05,916.0,Furnished,East,Ready to Move,22,1,3,Mumbai,3389.74,Affordable (<50L),98.5
+Panvel,2,66.74,1015.0,Semi-Furnished,West,Under Construction,6,0,2,Mumbai,6575.37,Mid-Range (50-100L),96.1
+Dahisar,3,127.22,1387.0,Semi-Furnished,South,Ready to Move,1,1,3,Mumbai,9172.31,Premium (1-2Cr),92.0
+Virar,2,42.19,1167.0,Unfurnished,South,Ready to Move,10,2,3,Mumbai,3615.25,Affordable (<50L),97.7
+Worli,2,445.62,852.0,Furnished,East,Ready to Move,20,2,2,Mumbai,52302.82,Luxury (2Cr+),70.6
+Panvel,2,47.08,707.0,Furnished,North,Under Construction,6,2,2,Mumbai,6659.12,Affordable (<50L),97.4
+Ghatkopar East,2,54.84,1119.0,Unfurnished,West,Ready to Move,3,0,3,Mumbai,4900.8,Mid-Range (50-100L),96.9
+Malad East,2,84.02,1195.0,Unfurnished,North,Ready to Move,2,1,3,Mumbai,7030.96,Mid-Range (50-100L),94.9
+Dadar,2,222.51,1134.0,Unfurnished,West,Under Construction,23,0,2,Mumbai,19621.69,Luxury (2Cr+),85.6
+Borivali West,2,73.25,947.0,Semi-Furnished,East,Under Construction,20,1,1,Mumbai,7734.95,Mid-Range (50-100L),95.7
+Vikhroli,1,35.24,852.0,Unfurnished,North,Ready to Move,12,0,1,Mumbai,4136.15,Affordable (<50L),98.2
+Dadar,4,265.13,1444.0,Furnished,South,Ready to Move,4,0,3,Mumbai,18360.8,Luxury (2Cr+),82.8
+Airoli,3,103.48,1144.0,Semi-Furnished,West,Under Construction,20,1,1,Mumbai,9045.45,Premium (1-2Cr),93.6
+Mulund West,3,173.11,1475.0,Unfurnished,South,Under Construction,26,1,3,Mumbai,11736.27,Premium (1-2Cr),88.9
+Powai,1,92.09,647.0,Semi-Furnished,West,Ready to Move,8,2,3,Mumbai,14233.38,Mid-Range (50-100L),94.4
+Kandivali East,3,85.39,1445.0,Unfurnished,South,Under Construction,11,2,3,Mumbai,5909.34,Mid-Range (50-100L),94.8
+Worli,2,528.03,1142.0,Furnished,North,Ready to Move,20,0,2,Mumbai,46237.3,Luxury (2Cr+),65.1
+Thane West,3,118.0,1462.0,Furnished,West,Under Construction,20,2,3,Mumbai,8071.14,Premium (1-2Cr),92.6
+Goregaon East,1,56.11,862.0,Furnished,North,Under Construction,11,1,2,Mumbai,6509.28,Mid-Range (50-100L),96.8
+Kandivali West,5,166.13,1596.0,Semi-Furnished,South,Under Construction,20,2,3,Mumbai,10409.15,Premium (1-2Cr),89.4
+Kharghar,2,89.21,783.0,Unfurnished,South,Ready to Move,14,0,3,Mumbai,11393.36,Mid-Range (50-100L),94.6
+Malad East,3,106.0,1080.0,Furnished,South,Under Construction,5,1,3,Mumbai,9814.81,Premium (1-2Cr),93.4
+Ghatkopar West,1,43.71,853.0,Unfurnished,South,Ready to Move,22,1,2,Mumbai,5124.27,Affordable (<50L),97.6
+Lower Parel,2,274.84,1090.0,Semi-Furnished,South,Ready to Move,12,1,1,Mumbai,25214.68,Luxury (2Cr+),82.1
+Andheri West,3,297.16,1107.0,Unfurnished,West,Ready to Move,24,1,1,Mumbai,26843.72,Luxury (2Cr+),80.6
+Airoli,4,137.43,1534.0,Furnished,North,Under Construction,15,2,3,Mumbai,8958.93,Premium (1-2Cr),91.3
+Thane West,4,193.33,1013.0,Furnished,West,Ready to Move,16,0,3,Mumbai,19084.9,Premium (1-2Cr),87.6
+Virar,2,35.08,759.0,Semi-Furnished,South,Ready to Move,7,2,1,Mumbai,4621.87,Affordable (<50L),98.2
+Ghatkopar East,3,99.51,1468.0,Furnished,West,Ready to Move,13,0,3,Mumbai,6778.61,Mid-Range (50-100L),93.9
+Parel,3,287.02,1209.0,Furnished,East,Under Construction,27,1,3,Mumbai,23740.28,Luxury (2Cr+),81.3
+Chembur,2,82.81,791.0,Semi-Furnished,South,Under Construction,29,1,1,Mumbai,10469.03,Mid-Range (50-100L),95.0
+Borivali East,2,91.64,1147.0,Furnished,North,Ready to Move,29,2,3,Mumbai,7989.54,Mid-Range (50-100L),94.4
+Dadar,4,330.95,1416.0,Unfurnished,North,Under Construction,4,0,3,Mumbai,23372.18,Luxury (2Cr+),78.3
+Kharghar,2,76.51,776.0,Furnished,East,Ready to Move,13,0,2,Mumbai,9859.54,Mid-Range (50-100L),95.4
+Kandivali East,1,48.56,881.0,Unfurnished,West,Ready to Move,27,0,3,Mumbai,5511.92,Affordable (<50L),97.3
+Lower Parel,4,657.19,1492.0,Semi-Furnished,West,Ready to Move,17,1,3,Mumbai,44047.59,Luxury (2Cr+),56.4
+Ghatkopar East,1,40.52,840.0,Furnished,North,Ready to Move,21,2,1,Mumbai,4823.81,Affordable (<50L),97.8
+Dahisar,2,66.14,1155.0,Semi-Furnished,South,Ready to Move,21,2,3,Mumbai,5726.41,Mid-Range (50-100L),96.1
+Chembur,1,68.68,875.0,Unfurnished,East,Under Construction,3,2,2,Mumbai,7849.14,Mid-Range (50-100L),96.0
+Mulund East,4,141.02,1373.0,Furnished,West,Ready to Move,25,2,3,Mumbai,10270.94,Premium (1-2Cr),91.1
+Andheri West,3,155.97,886.0,Unfurnished,North,Ready to Move,17,0,2,Mumbai,17603.84,Premium (1-2Cr),90.1
+Kurla,2,90.47,1165.0,Semi-Furnished,West,Under Construction,6,0,3,Mumbai,7765.67,Mid-Range (50-100L),94.5
+Kandivali East,4,119.67,1335.0,Furnished,East,Ready to Move,2,2,2,Mumbai,8964.04,Premium (1-2Cr),92.5
+Nalasopara,1,16.38,617.0,Semi-Furnished,West,Ready to Move,5,2,3,Mumbai,2654.78,Affordable (<50L),99.5
+Bandra East,3,244.51,1033.0,Semi-Furnished,East,Under Construction,26,0,1,Mumbai,23669.89,Luxury (2Cr+),84.1
+Mira Road,3,79.37,1366.0,Unfurnished,West,Under Construction,24,2,3,Mumbai,5810.4,Mid-Range (50-100L),95.2
+Andheri West,5,303.02,1943.0,Unfurnished,South,Under Construction,24,1,3,Mumbai,15595.47,Luxury (2Cr+),80.2
+Virar,4,45.92,1568.0,Unfurnished,South,Ready to Move,14,0,1,Mumbai,2928.57,Affordable (<50L),97.5
+Kalyan,2,30.44,935.0,Semi-Furnished,East,Under Construction,20,1,2,Mumbai,3255.61,Affordable (<50L),98.5
+Bandra West,3,606.53,1342.0,Furnished,North,Ready to Move,12,0,3,Mumbai,45195.98,Luxury (2Cr+),59.8
+Parel,1,160.18,675.0,Unfurnished,South,Ready to Move,16,2,1,Mumbai,23730.37,Premium (1-2Cr),89.8
+Dadar,1,76.62,670.0,Furnished,South,Ready to Move,20,1,3,Mumbai,11435.82,Mid-Range (50-100L),95.4
+Dombivli,2,34.37,946.0,Semi-Furnished,West,Under Construction,15,1,1,Mumbai,3633.19,Affordable (<50L),98.3
+Panvel,3,50.22,1205.0,Furnished,North,Under Construction,12,2,3,Mumbai,4167.63,Mid-Range (50-100L),97.2
+Worli,1,139.05,856.0,Unfurnished,South,Ready to Move,8,1,2,Mumbai,16244.16,Premium (1-2Cr),91.2
+Dadar,2,121.95,1113.0,Furnished,South,Ready to Move,26,0,3,Mumbai,10956.87,Premium (1-2Cr),92.4
+Vasai,3,34.15,1230.0,Furnished,East,Ready to Move,16,1,1,Mumbai,2776.42,Affordable (<50L),98.3
+Dahisar,2,68.28,966.0,Unfurnished,West,Ready to Move,27,2,3,Mumbai,7068.32,Mid-Range (50-100L),96.0
+Lower Parel,5,876.14,1180.0,Semi-Furnished,East,Under Construction,15,1,3,Mumbai,74249.15,Luxury (2Cr+),41.7
+Dadar,1,101.21,629.0,Unfurnished,East,Ready to Move,25,2,2,Mumbai,16090.62,Premium (1-2Cr),93.8
+Panvel,1,15.8,864.0,Semi-Furnished,North,Ready to Move,17,1,2,Mumbai,1828.7,Affordable (<50L),99.5
+Powai,1,112.26,675.0,Furnished,West,Ready to Move,14,1,3,Mumbai,16631.11,Premium (1-2Cr),93.0
+Mulund West,3,168.57,1358.0,Unfurnished,East,Under Construction,3,1,3,Mumbai,12413.11,Premium (1-2Cr),89.2
+Airoli,5,185.48,1655.0,Semi-Furnished,North,Ready to Move,26,1,2,Mumbai,11207.25,Premium (1-2Cr),88.1
+Thane East,2,66.36,1057.0,Furnished,North,Under Construction,12,2,2,Mumbai,6278.15,Mid-Range (50-100L),96.1
+Ulhasnagar,1,15.78,631.0,Unfurnished,South,Under Construction,16,0,3,Mumbai,2500.79,Affordable (<50L),99.5
+Thane West,3,87.45,919.0,Furnished,West,Under Construction,14,0,3,Mumbai,9515.78,Mid-Range (50-100L),94.7
+Dahisar,2,56.54,784.0,Furnished,West,Ready to Move,3,1,2,Mumbai,7211.73,Mid-Range (50-100L),96.8
+Ghatkopar West,4,170.09,1669.0,Unfurnished,South,Under Construction,19,2,2,Mumbai,10191.13,Premium (1-2Cr),89.1
+Mulund East,2,54.12,857.0,Semi-Furnished,East,Ready to Move,29,2,3,Mumbai,6315.05,Mid-Range (50-100L),96.9
+Kalyan,3,74.33,1201.0,Semi-Furnished,East,Under Construction,12,0,2,Mumbai,6189.01,Mid-Range (50-100L),95.6
+Thane East,3,98.35,1028.0,Semi-Furnished,South,Under Construction,16,2,2,Mumbai,9567.12,Mid-Range (50-100L),94.0
+Goregaon West,1,61.96,664.0,Furnished,East,Ready to Move,5,1,2,Mumbai,9331.33,Mid-Range (50-100L),96.4
+Airoli,1,30.01,824.0,Unfurnished,East,Ready to Move,10,2,1,Mumbai,3641.99,Affordable (<50L),98.6
+Goregaon East,3,141.92,1130.0,Unfurnished,East,Ready to Move,23,1,2,Mumbai,12559.29,Premium (1-2Cr),91.0
+Borivali West,2,79.15,909.0,Semi-Furnished,East,Under Construction,16,2,1,Mumbai,8707.37,Mid-Range (50-100L),95.3
+Malad East,5,133.04,1523.0,Unfurnished,North,Ready to Move,25,1,2,Mumbai,8735.39,Premium (1-2Cr),91.6
+Kalyan,5,75.06,1173.0,Furnished,West,Ready to Move,7,2,1,Mumbai,6398.98,Mid-Range (50-100L),95.5
+Andheri East,4,221.16,1040.0,Unfurnished,South,Ready to Move,19,1,2,Mumbai,21265.38,Luxury (2Cr+),85.7
+Parel,3,457.52,1054.0,Unfurnished,South,Under Construction,12,0,3,Mumbai,43407.97,Luxury (2Cr+),69.8
+Nalasopara,3,44.54,1029.0,Unfurnished,North,Ready to Move,8,2,3,Mumbai,4328.47,Affordable (<50L),97.6
+Goregaon East,1,37.31,661.0,Furnished,South,Ready to Move,26,1,3,Mumbai,5644.48,Affordable (<50L),98.1
+Goregaon East,2,63.02,806.0,Semi-Furnished,North,Ready to Move,20,0,3,Mumbai,7818.86,Mid-Range (50-100L),96.3
+Kurla,2,84.94,1047.0,Unfurnished,East,Under Construction,21,0,2,Mumbai,8112.7,Mid-Range (50-100L),94.9
+Kurla,2,101.91,873.0,Semi-Furnished,West,Under Construction,16,1,3,Mumbai,11673.54,Premium (1-2Cr),93.7
+Mira Road,2,65.46,797.0,Semi-Furnished,West,Ready to Move,4,1,3,Mumbai,8213.3,Mid-Range (50-100L),96.2
+Mira Road,4,86.08,1329.0,Semi-Furnished,South,Ready to Move,15,0,3,Mumbai,6477.05,Mid-Range (50-100L),94.8
+Malad West,2,63.29,723.0,Unfurnished,West,Ready to Move,5,1,2,Mumbai,8753.8,Mid-Range (50-100L),96.3
+Bandra East,1,62.33,706.0,Unfurnished,North,Under Construction,19,1,2,Mumbai,8828.61,Mid-Range (50-100L),96.4
+Panvel,2,74.3,1084.0,Unfurnished,South,Under Construction,2,1,3,Mumbai,6854.24,Mid-Range (50-100L),95.6
+Vashi,1,46.53,776.0,Unfurnished,East,Ready to Move,11,0,2,Mumbai,5996.13,Affordable (<50L),97.4
+Panvel,2,56.35,962.0,Unfurnished,East,Ready to Move,11,0,3,Mumbai,5857.59,Mid-Range (50-100L),96.8
+Kandivali West,1,44.98,729.0,Unfurnished,West,Ready to Move,8,1,2,Mumbai,6170.1,Affordable (<50L),97.5
+Goregaon West,2,91.89,1038.0,Furnished,West,Under Construction,17,1,3,Mumbai,8852.6,Mid-Range (50-100L),94.4
+Chembur,2,87.73,1084.0,Furnished,West,Under Construction,10,0,3,Mumbai,8093.17,Mid-Range (50-100L),94.7
+Vasai,3,35.89,1244.0,Semi-Furnished,North,Ready to Move,9,1,2,Mumbai,2885.05,Affordable (<50L),98.2
+Dadar,1,97.02,594.0,Semi-Furnished,East,Under Construction,25,1,3,Mumbai,16333.33,Mid-Range (50-100L),94.1
+Nalasopara,1,13.19,742.0,Semi-Furnished,North,Under Construction,25,1,2,Mumbai,1777.63,Affordable (<50L),99.7
+Kurla,2,91.23,982.0,Furnished,West,Under Construction,14,0,2,Mumbai,9290.22,Mid-Range (50-100L),94.4
+Vashi,1,61.94,692.0,Semi-Furnished,South,Ready to Move,4,1,3,Mumbai,8950.87,Mid-Range (50-100L),96.4
+Mira Road,3,105.04,1290.0,Semi-Furnished,West,Ready to Move,23,0,2,Mumbai,8142.64,Premium (1-2Cr),93.5
+Mulund East,2,92.34,1017.0,Semi-Furnished,North,Ready to Move,14,1,3,Mumbai,9079.65,Mid-Range (50-100L),94.4
+Mulund East,1,46.28,745.0,Unfurnished,West,Under Construction,15,0,1,Mumbai,6212.08,Affordable (<50L),97.5
+Kalyan,2,25.77,901.0,Unfurnished,West,Ready to Move,11,0,3,Mumbai,2860.16,Affordable (<50L),98.8
+Ghatkopar West,2,88.53,827.0,Semi-Furnished,West,Ready to Move,8,0,2,Mumbai,10704.96,Mid-Range (50-100L),94.6
+Kharghar,2,84.53,977.0,Unfurnished,East,Ready to Move,22,1,3,Mumbai,8652.0,Mid-Range (50-100L),94.9
+Borivali West,4,140.45,1384.0,Unfurnished,South,Ready to Move,7,2,2,Mumbai,10148.12,Premium (1-2Cr),91.1
+Kurla,3,167.11,1497.0,Semi-Furnished,North,Ready to Move,26,0,1,Mumbai,11162.99,Premium (1-2Cr),89.3
+Thane West,1,40.83,789.0,Furnished,South,Ready to Move,1,2,3,Mumbai,5174.9,Affordable (<50L),97.8
+Ulhasnagar,2,29.88,1047.0,Furnished,South,Ready to Move,7,2,2,Mumbai,2853.87,Affordable (<50L),98.6
+Virar,4,48.5,1354.0,Furnished,East,Under Construction,11,2,3,Mumbai,3581.98,Affordable (<50L),97.3
+Kandivali East,5,183.3,1418.0,Unfurnished,North,Ready to Move,28,0,3,Mumbai,12926.66,Premium (1-2Cr),88.3
+Navi Mumbai,3,162.42,1158.0,Unfurnished,West,Ready to Move,26,1,2,Mumbai,14025.91,Premium (1-2Cr),89.7
+Goregaon West,3,163.49,1027.0,Semi-Furnished,West,Under Construction,6,0,2,Mumbai,15919.18,Premium (1-2Cr),89.6
+Lower Parel,1,197.24,741.0,Semi-Furnished,North,Under Construction,7,2,3,Mumbai,26618.08,Premium (1-2Cr),87.3
+Bandra East,4,457.13,1616.0,Unfurnished,North,Ready to Move,5,1,3,Mumbai,28287.75,Luxury (2Cr+),69.9
+Vashi,4,256.33,1667.0,Semi-Furnished,East,Under Construction,22,2,1,Mumbai,15376.72,Luxury (2Cr+),83.3
+Kandivali West,5,194.93,2038.0,Unfurnished,East,Ready to Move,18,2,1,Mumbai,9564.77,Premium (1-2Cr),87.5
+Parel,4,313.56,1271.0,Semi-Furnished,West,Ready to Move,28,0,2,Mumbai,24670.34,Luxury (2Cr+),79.5
+Mulund East,2,74.85,758.0,Furnished,North,Under Construction,10,2,3,Mumbai,9874.67,Mid-Range (50-100L),95.5
+Virar,3,42.05,1325.0,Furnished,West,Ready to Move,9,1,2,Mumbai,3173.58,Affordable (<50L),97.7
+Kandivali West,1,38.65,668.0,Furnished,South,Ready to Move,28,1,3,Mumbai,5785.93,Affordable (<50L),98.0
+Thane West,2,55.69,729.0,Furnished,North,Under Construction,18,0,3,Mumbai,7639.23,Mid-Range (50-100L),96.8
+Ulhasnagar,3,36.44,1372.0,Semi-Furnished,South,Ready to Move,11,2,1,Mumbai,2655.98,Affordable (<50L),98.1
+Thane East,2,44.18,916.0,Furnished,East,Ready to Move,16,1,2,Mumbai,4823.14,Affordable (<50L),97.6
+Nalasopara,4,75.36,1064.0,Unfurnished,West,Under Construction,12,1,3,Mumbai,7082.71,Mid-Range (50-100L),95.5
+Thane East,5,127.4,2044.0,Furnished,North,Under Construction,26,2,2,Mumbai,6232.88,Premium (1-2Cr),92.0
+Borivali East,3,109.78,1371.0,Unfurnished,East,Under Construction,5,1,1,Mumbai,8007.29,Premium (1-2Cr),93.2
+Dombivli,5,132.87,2053.0,Unfurnished,North,Ready to Move,22,0,3,Mumbai,6471.99,Premium (1-2Cr),91.6
+Kurla,1,45.27,673.0,Semi-Furnished,South,Ready to Move,21,1,2,Mumbai,6726.6,Affordable (<50L),97.5
+Bandra West,3,638.4,1099.0,Furnished,West,Ready to Move,12,2,2,Mumbai,58089.17,Luxury (2Cr+),57.7
+Goregaon West,2,81.15,832.0,Semi-Furnished,East,Under Construction,22,1,3,Mumbai,9753.61,Mid-Range (50-100L),95.1
+Borivali East,5,207.86,1719.0,Unfurnished,North,Under Construction,14,2,3,Mumbai,12091.91,Luxury (2Cr+),86.6
+Ghatkopar East,2,97.67,986.0,Furnished,West,Under Construction,5,2,3,Mumbai,9905.68,Mid-Range (50-100L),94.0
+Ghatkopar East,5,229.1,1505.0,Unfurnished,East,Ready to Move,15,2,2,Mumbai,15222.59,Luxury (2Cr+),85.2
+Malad East,2,51.17,899.0,Furnished,East,Ready to Move,3,2,2,Mumbai,5691.88,Mid-Range (50-100L),97.1
+Kharghar,2,36.4,713.0,Unfurnished,South,Ready to Move,3,0,3,Mumbai,5105.19,Affordable (<50L),98.1
+Vikhroli,2,51.02,749.0,Semi-Furnished,West,Ready to Move,22,0,3,Mumbai,6811.75,Mid-Range (50-100L),97.1
+Andheri West,5,483.79,1950.0,Furnished,East,Under Construction,12,0,1,Mumbai,24809.74,Luxury (2Cr+),68.1
+Parel,4,356.42,1047.0,Semi-Furnished,North,Ready to Move,11,0,2,Mumbai,34042.02,Luxury (2Cr+),76.6
+Powai,1,99.77,609.0,Unfurnished,South,Ready to Move,15,0,3,Mumbai,16382.59,Mid-Range (50-100L),93.9
+Lower Parel,1,82.67,896.0,Unfurnished,West,Under Construction,6,2,3,Mumbai,9226.56,Mid-Range (50-100L),95.0
+Powai,2,110.93,790.0,Unfurnished,West,Under Construction,10,2,3,Mumbai,14041.77,Premium (1-2Cr),93.1
+Goregaon East,1,54.37,777.0,Unfurnished,North,Ready to Move,21,1,3,Mumbai,6997.43,Mid-Range (50-100L),96.9
+Vashi,4,205.35,1592.0,Semi-Furnished,North,Under Construction,22,2,2,Mumbai,12898.87,Luxury (2Cr+),86.8
+Goregaon East,3,118.35,1326.0,Furnished,North,Under Construction,27,0,1,Mumbai,8925.34,Premium (1-2Cr),92.6
+Vasai,5,116.76,1770.0,Semi-Furnished,East,Under Construction,23,1,3,Mumbai,6596.61,Premium (1-2Cr),92.7
+Ulhasnagar,3,29.71,1467.0,Furnished,West,Under Construction,21,0,1,Mumbai,2025.22,Affordable (<50L),98.6
+Andheri West,3,183.98,1285.0,Unfurnished,North,Ready to Move,13,2,2,Mumbai,14317.51,Premium (1-2Cr),88.2
+Nerul,1,44.33,620.0,Unfurnished,East,Under Construction,18,2,2,Mumbai,7150.0,Affordable (<50L),97.6
+Kandivali West,1,27.36,795.0,Unfurnished,East,Ready to Move,13,0,3,Mumbai,3441.51,Affordable (<50L),98.7
+Parel,3,404.52,1167.0,Unfurnished,South,Ready to Move,22,0,3,Mumbai,34663.24,Luxury (2Cr+),73.4
+Thane West,4,108.47,1255.0,Furnished,West,Ready to Move,25,0,3,Mumbai,8643.03,Premium (1-2Cr),93.3
+Goregaon West,1,72.48,611.0,Unfurnished,East,Under Construction,19,1,1,Mumbai,11862.52,Mid-Range (50-100L),95.7
+Vashi,2,122.35,798.0,Furnished,East,Under Construction,11,1,1,Mumbai,15332.08,Premium (1-2Cr),92.4
+Mulund East,1,45.0,833.0,Furnished,South,Under Construction,19,0,1,Mumbai,5402.16,Affordable (<50L),97.5
+Navi Mumbai,1,29.41,620.0,Unfurnished,West,Under Construction,25,0,3,Mumbai,4743.55,Affordable (<50L),98.6
+Borivali East,2,63.46,1008.0,Unfurnished,North,Ready to Move,10,1,1,Mumbai,6295.63,Mid-Range (50-100L),96.3
+Thane East,3,86.43,1378.0,Unfurnished,South,Ready to Move,8,0,3,Mumbai,6272.13,Mid-Range (50-100L),94.8
+Malad West,5,300.9,1169.0,Unfurnished,East,Under Construction,5,2,3,Mumbai,25739.95,Luxury (2Cr+),80.4
+Kharghar,1,41.92,836.0,Semi-Furnished,East,Under Construction,29,2,1,Mumbai,5014.35,Affordable (<50L),97.8
+Kandivali East,2,46.76,816.0,Furnished,West,Ready to Move,11,2,3,Mumbai,5730.39,Affordable (<50L),97.4
+Powai,2,173.01,1037.0,Semi-Furnished,South,Under Construction,9,2,2,Mumbai,16683.7,Premium (1-2Cr),88.9
+Nerul,3,162.82,1270.0,Unfurnished,East,Under Construction,26,2,3,Mumbai,12820.47,Premium (1-2Cr),89.6
+Ghatkopar West,4,144.3,1263.0,Unfurnished,East,Ready to Move,2,0,3,Mumbai,11425.18,Premium (1-2Cr),90.9
+Nalasopara,5,87.01,1499.0,Unfurnished,West,Ready to Move,22,0,2,Mumbai,5804.54,Mid-Range (50-100L),94.7
+Airoli,2,66.17,1161.0,Furnished,South,Ready to Move,25,2,2,Mumbai,5699.4,Mid-Range (50-100L),96.1
+Vikhroli,1,44.39,775.0,Semi-Furnished,North,Ready to Move,25,2,2,Mumbai,5727.74,Affordable (<50L),97.6
+Kandivali East,1,30.87,833.0,Semi-Furnished,East,Ready to Move,13,0,2,Mumbai,3705.88,Affordable (<50L),98.5
+Malad East,1,32.48,869.0,Semi-Furnished,North,Under Construction,29,1,1,Mumbai,3737.63,Affordable (<50L),98.4
+Thane West,3,85.43,1008.0,Semi-Furnished,West,Under Construction,3,2,3,Mumbai,8475.2,Mid-Range (50-100L),94.8
+Vikhroli,2,107.05,864.0,Unfurnished,West,Ready to Move,8,2,3,Mumbai,12390.05,Premium (1-2Cr),93.4
+Ghatkopar East,3,172.01,936.0,Furnished,East,Ready to Move,8,1,3,Mumbai,18377.14,Premium (1-2Cr),89.0
+Ulhasnagar,2,20.05,727.0,Unfurnished,East,Ready to Move,16,1,3,Mumbai,2757.91,Affordable (<50L),99.2
+Nerul,4,197.75,1541.0,Furnished,West,Ready to Move,4,0,1,Mumbai,12832.58,Premium (1-2Cr),87.3
+Thane West,2,88.41,1191.0,Unfurnished,South,Ready to Move,3,1,3,Mumbai,7423.17,Mid-Range (50-100L),94.6
+Ghatkopar West,1,42.17,599.0,Semi-Furnished,West,Under Construction,14,1,2,Mumbai,7040.07,Affordable (<50L),97.7
+Mulund West,1,51.36,645.0,Unfurnished,West,Ready to Move,13,0,2,Mumbai,7962.79,Mid-Range (50-100L),97.1
+Vashi,3,127.64,941.0,Semi-Furnished,South,Ready to Move,13,0,2,Mumbai,13564.29,Premium (1-2Cr),92.0
+Mulund West,4,137.4,1134.0,Unfurnished,East,Ready to Move,29,0,2,Mumbai,12116.4,Premium (1-2Cr),91.3
+Andheri East,1,57.05,854.0,Semi-Furnished,East,Under Construction,21,0,3,Mumbai,6680.33,Mid-Range (50-100L),96.7
+Airoli,2,84.75,1127.0,Furnished,North,Ready to Move,16,1,2,Mumbai,7519.96,Mid-Range (50-100L),94.9
+Bandra East,2,222.42,1073.0,Furnished,North,Ready to Move,5,0,3,Mumbai,20728.8,Luxury (2Cr+),85.6
+Mulund East,2,51.67,802.0,Furnished,West,Ready to Move,2,0,2,Mumbai,6442.64,Mid-Range (50-100L),97.1
+Mira Road,3,108.76,1332.0,Unfurnished,East,Under Construction,27,1,1,Mumbai,8165.17,Premium (1-2Cr),93.3
+Thane East,3,129.23,1130.0,Furnished,West,Ready to Move,11,2,1,Mumbai,11436.28,Premium (1-2Cr),91.9
+Lower Parel,5,466.36,1184.0,Semi-Furnished,West,Under Construction,2,2,2,Mumbai,39388.51,Luxury (2Cr+),69.2
+Vashi,3,153.34,903.0,Semi-Furnished,East,Ready to Move,5,2,3,Mumbai,16981.17,Premium (1-2Cr),90.3
+Thane West,1,46.25,553.0,Semi-Furnished,West,Under Construction,4,2,2,Mumbai,8363.47,Affordable (<50L),97.5
+Kandivali West,3,104.41,1359.0,Semi-Furnished,East,Under Construction,18,2,3,Mumbai,7682.86,Premium (1-2Cr),93.6
+Panvel,5,110.61,1157.0,Semi-Furnished,North,Under Construction,19,1,3,Mumbai,9560.07,Premium (1-2Cr),93.1
+Vashi,3,194.1,1468.0,Furnished,South,Under Construction,15,2,2,Mumbai,13222.07,Premium (1-2Cr),87.5
+Airoli,4,109.14,1334.0,Semi-Furnished,East,Under Construction,11,1,3,Mumbai,8181.41,Premium (1-2Cr),93.2
+Kalyan,1,26.74,571.0,Unfurnished,West,Ready to Move,6,1,1,Mumbai,4683.01,Affordable (<50L),98.8
+Mulund West,3,97.6,1263.0,Unfurnished,East,Under Construction,2,2,2,Mumbai,7727.63,Mid-Range (50-100L),94.0
+Andheri West,2,183.76,759.0,Furnished,North,Ready to Move,27,0,3,Mumbai,24210.8,Premium (1-2Cr),88.2
+Mulund East,3,73.33,1183.0,Furnished,South,Under Construction,11,0,1,Mumbai,6198.65,Mid-Range (50-100L),95.6
+Nerul,3,90.53,1035.0,Unfurnished,West,Under Construction,13,1,2,Mumbai,8746.86,Mid-Range (50-100L),94.5
+Andheri East,5,213.91,1575.0,Semi-Furnished,West,Under Construction,9,0,3,Mumbai,13581.59,Luxury (2Cr+),86.2
+Borivali East,2,60.75,907.0,Unfurnished,North,Under Construction,13,2,3,Mumbai,6697.91,Mid-Range (50-100L),96.5
+Worli,5,1261.24,1815.0,Unfurnished,South,Ready to Move,25,0,3,Mumbai,69489.81,Luxury (2Cr+),15.8
+Andheri East,3,234.05,1180.0,Semi-Furnished,North,Under Construction,14,0,2,Mumbai,19834.75,Luxury (2Cr+),84.8
+Ulhasnagar,2,20.61,773.0,Furnished,East,Ready to Move,7,2,2,Mumbai,2666.24,Affordable (<50L),99.2
+Ghatkopar East,1,59.73,837.0,Furnished,West,Under Construction,6,2,2,Mumbai,7136.2,Mid-Range (50-100L),96.6
+Kandivali West,5,223.94,1924.0,Semi-Furnished,South,Ready to Move,1,1,2,Mumbai,11639.29,Luxury (2Cr+),85.5
+Goregaon East,3,157.9,1192.0,Semi-Furnished,North,Under Construction,17,1,2,Mumbai,13246.64,Premium (1-2Cr),90.0
+Andheri East,2,121.42,907.0,Furnished,North,Under Construction,22,2,2,Mumbai,13386.99,Premium (1-2Cr),92.4
+Dombivli,5,125.28,1492.0,Furnished,West,Ready to Move,13,1,1,Mumbai,8396.78,Premium (1-2Cr),92.2
+Thane West,3,142.51,854.0,Furnished,South,Under Construction,24,0,3,Mumbai,16687.35,Premium (1-2Cr),91.0
+Thane West,1,26.53,888.0,Semi-Furnished,North,Ready to Move,21,1,3,Mumbai,2987.61,Affordable (<50L),98.8
+Vashi,5,238.89,1336.0,Furnished,East,Under Construction,17,0,1,Mumbai,17880.99,Luxury (2Cr+),84.5
+Kurla,2,116.74,1069.0,Unfurnished,North,Under Construction,9,0,2,Mumbai,10920.49,Premium (1-2Cr),92.7
+Mulund West,2,120.57,744.0,Semi-Furnished,East,Under Construction,26,1,3,Mumbai,16205.65,Premium (1-2Cr),92.5
+Thane East,2,46.28,1159.0,Unfurnished,East,Under Construction,1,0,2,Mumbai,3993.1,Affordable (<50L),97.5
+Parel,2,347.07,1096.0,Semi-Furnished,North,Under Construction,14,0,1,Mumbai,31666.97,Luxury (2Cr+),77.2
+Dadar,5,328.13,1518.0,Furnished,North,Under Construction,6,2,1,Mumbai,21615.94,Luxury (2Cr+),78.5
+Vikhroli,5,151.63,1427.0,Semi-Furnished,East,Ready to Move,20,2,2,Mumbai,10625.79,Premium (1-2Cr),90.4
+Bandra East,5,670.89,1556.0,Semi-Furnished,East,Under Construction,26,0,3,Mumbai,43116.32,Luxury (2Cr+),55.5
+Vikhroli,3,135.3,1283.0,Furnished,South,Under Construction,4,1,2,Mumbai,10545.6,Premium (1-2Cr),91.5
+Malad West,3,109.08,1281.0,Semi-Furnished,South,Under Construction,2,2,2,Mumbai,8515.22,Premium (1-2Cr),93.2
+Goregaon East,3,180.99,1484.0,Unfurnished,West,Under Construction,29,1,3,Mumbai,12196.09,Premium (1-2Cr),88.4
+Mira Road,3,55.79,1397.0,Semi-Furnished,West,Ready to Move,19,2,2,Mumbai,3993.56,Mid-Range (50-100L),96.8
+Borivali East,2,87.83,744.0,Unfurnished,North,Ready to Move,11,2,2,Mumbai,11805.11,Mid-Range (50-100L),94.7
+Borivali West,3,139.46,927.0,Unfurnished,East,Under Construction,17,1,3,Mumbai,15044.23,Premium (1-2Cr),91.2
+Kandivali East,2,90.85,1052.0,Semi-Furnished,South,Ready to Move,3,2,2,Mumbai,8635.93,Mid-Range (50-100L),94.5
+Goregaon East,3,150.48,1018.0,Furnished,West,Under Construction,17,0,2,Mumbai,14781.93,Premium (1-2Cr),90.5
+Ghatkopar West,2,98.58,729.0,Semi-Furnished,East,Under Construction,10,0,1,Mumbai,13522.63,Mid-Range (50-100L),93.9
+Bandra East,1,116.39,873.0,Furnished,West,Under Construction,6,0,2,Mumbai,13332.19,Premium (1-2Cr),92.8
+Goregaon West,4,231.62,1392.0,Semi-Furnished,North,Under Construction,21,1,3,Mumbai,16639.37,Luxury (2Cr+),85.0
+Kharghar,3,116.73,1101.0,Furnished,West,Under Construction,22,1,3,Mumbai,10602.18,Premium (1-2Cr),92.7
+Airoli,2,46.84,735.0,Unfurnished,North,Ready to Move,1,1,3,Mumbai,6372.79,Affordable (<50L),97.4
+Airoli,5,215.07,1161.0,Furnished,North,Under Construction,6,2,2,Mumbai,18524.55,Luxury (2Cr+),86.1
+Kandivali East,2,73.01,1007.0,Semi-Furnished,North,Under Construction,1,2,2,Mumbai,7250.25,Mid-Range (50-100L),95.7
+Lower Parel,4,539.27,1677.0,Semi-Furnished,North,Under Construction,14,0,3,Mumbai,32156.83,Luxury (2Cr+),64.3
+Ghatkopar East,5,235.27,1263.0,Semi-Furnished,East,Under Construction,8,1,3,Mumbai,18627.87,Luxury (2Cr+),84.8
+Ghatkopar West,3,142.55,1399.0,Semi-Furnished,North,Ready to Move,5,1,3,Mumbai,10189.42,Premium (1-2Cr),91.0
+Ulhasnagar,2,29.86,985.0,Semi-Furnished,West,Under Construction,8,0,3,Mumbai,3031.47,Affordable (<50L),98.6
+Malad East,3,143.29,1478.0,Semi-Furnished,West,Under Construction,1,2,3,Mumbai,9694.86,Premium (1-2Cr),90.9
+Dahisar,4,99.95,1505.0,Furnished,West,Ready to Move,26,2,2,Mumbai,6641.2,Mid-Range (50-100L),93.9
+Mulund East,1,27.2,697.0,Furnished,South,Under Construction,25,0,2,Mumbai,3902.44,Affordable (<50L),98.7
+Chembur,3,128.22,1073.0,Semi-Furnished,South,Ready to Move,26,1,3,Mumbai,11949.67,Premium (1-2Cr),92.0
+Andheri East,1,52.92,761.0,Semi-Furnished,North,Ready to Move,7,1,2,Mumbai,6954.01,Mid-Range (50-100L),97.0
+Vashi,3,148.57,1348.0,Unfurnished,East,Ready to Move,5,2,2,Mumbai,11021.51,Premium (1-2Cr),90.6
+Powai,4,232.44,1248.0,Semi-Furnished,South,Ready to Move,7,2,3,Mumbai,18625.0,Luxury (2Cr+),85.0
+Panvel,3,75.43,997.0,Semi-Furnished,East,Ready to Move,23,0,3,Mumbai,7565.7,Mid-Range (50-100L),95.5
+Worli,3,472.91,935.0,Semi-Furnished,East,Ready to Move,4,2,3,Mumbai,50578.61,Luxury (2Cr+),68.8
+Dadar,5,667.49,1991.0,Furnished,South,Ready to Move,22,1,3,Mumbai,33525.36,Luxury (2Cr+),55.7
+Ulhasnagar,2,39.45,793.0,Unfurnished,West,Ready to Move,16,1,2,Mumbai,4974.78,Affordable (<50L),97.9
+Virar,2,34.23,808.0,Furnished,South,Ready to Move,19,1,2,Mumbai,4236.39,Affordable (<50L),98.3
+Mulund West,3,118.44,1109.0,Semi-Furnished,North,Under Construction,12,1,3,Mumbai,10679.89,Premium (1-2Cr),92.6
+Ghatkopar West,1,31.88,669.0,Unfurnished,South,Under Construction,4,0,2,Mumbai,4765.32,Affordable (<50L),98.4
+Malad West,2,68.47,1174.0,Unfurnished,East,Ready to Move,2,0,3,Mumbai,5832.2,Mid-Range (50-100L),96.0
+Kurla,4,122.13,1194.0,Semi-Furnished,South,Under Construction,20,0,2,Mumbai,10228.64,Premium (1-2Cr),92.4
+Andheri West,3,239.47,927.0,Unfurnished,North,Under Construction,3,1,2,Mumbai,25832.79,Luxury (2Cr+),84.5
+Nalasopara,5,78.0,1782.0,Semi-Furnished,South,Ready to Move,27,0,3,Mumbai,4377.1,Mid-Range (50-100L),95.3
+Kandivali West,3,78.69,1300.0,Unfurnished,West,Ready to Move,15,2,2,Mumbai,6053.08,Mid-Range (50-100L),95.3
+Kalyan,3,78.1,1316.0,Furnished,North,Ready to Move,15,2,3,Mumbai,5934.65,Mid-Range (50-100L),95.3
+Mulund East,2,98.71,1045.0,Semi-Furnished,East,Under Construction,23,0,3,Mumbai,9445.93,Mid-Range (50-100L),93.9
+Panvel,3,93.24,1418.0,Semi-Furnished,North,Under Construction,21,2,3,Mumbai,6575.46,Mid-Range (50-100L),94.3
+Mulund East,2,74.91,951.0,Furnished,East,Ready to Move,13,1,3,Mumbai,7876.97,Mid-Range (50-100L),95.5
+Mira Road,2,69.44,936.0,Unfurnished,East,Under Construction,21,2,2,Mumbai,7418.8,Mid-Range (50-100L),95.9
+Andheri East,2,64.79,928.0,Furnished,East,Ready to Move,5,1,2,Mumbai,6981.68,Mid-Range (50-100L),96.2
+Malad East,3,104.73,1309.0,Furnished,South,Ready to Move,28,0,3,Mumbai,8000.76,Premium (1-2Cr),93.5
+Chembur,2,70.81,724.0,Semi-Furnished,East,Under Construction,20,0,2,Mumbai,9780.39,Mid-Range (50-100L),95.8
+Navi Mumbai,2,79.34,756.0,Furnished,West,Ready to Move,11,0,3,Mumbai,10494.71,Mid-Range (50-100L),95.2
+Malad East,3,156.52,1360.0,Unfurnished,East,Under Construction,16,1,3,Mumbai,11508.82,Premium (1-2Cr),90.1
+Kharghar,3,76.57,1473.0,Furnished,West,Ready to Move,6,0,3,Mumbai,5198.23,Mid-Range (50-100L),95.4
+Navi Mumbai,1,54.96,569.0,Furnished,North,Ready to Move,8,2,1,Mumbai,9659.05,Mid-Range (50-100L),96.9
+Virar,3,27.23,925.0,Semi-Furnished,East,Under Construction,23,2,2,Mumbai,2943.78,Affordable (<50L),98.7
+Powai,1,118.04,552.0,Semi-Furnished,North,Ready to Move,24,2,2,Mumbai,21384.06,Premium (1-2Cr),92.6
+Kharghar,4,73.53,1206.0,Unfurnished,West,Under Construction,19,0,3,Mumbai,6097.01,Mid-Range (50-100L),95.6
+Nalasopara,1,11.24,738.0,Furnished,North,Under Construction,8,0,3,Mumbai,1523.04,Affordable (<50L),99.8
+Virar,4,81.49,1399.0,Furnished,East,Under Construction,19,1,3,Mumbai,5824.87,Mid-Range (50-100L),95.1
+Thane East,5,223.69,1731.0,Furnished,West,Under Construction,11,2,1,Mumbai,12922.59,Luxury (2Cr+),85.5
+Andheri West,4,347.63,1387.0,Furnished,North,Under Construction,27,2,3,Mumbai,25063.45,Luxury (2Cr+),77.2
+Goregaon East,2,76.02,812.0,Furnished,West,Ready to Move,27,2,3,Mumbai,9362.07,Mid-Range (50-100L),95.5
+Airoli,1,41.12,578.0,Semi-Furnished,North,Ready to Move,17,0,2,Mumbai,7114.19,Affordable (<50L),97.8
+Kandivali East,3,143.77,1279.0,Semi-Furnished,South,Under Construction,27,2,1,Mumbai,11240.81,Premium (1-2Cr),90.9
+Malad West,3,184.06,1473.0,Furnished,West,Under Construction,4,2,3,Mumbai,12495.59,Premium (1-2Cr),88.2
+Dadar,1,107.35,791.0,Unfurnished,South,Under Construction,29,1,3,Mumbai,13571.43,Premium (1-2Cr),93.4
+Mulund West,3,99.43,1336.0,Unfurnished,South,Under Construction,5,1,2,Mumbai,7442.37,Mid-Range (50-100L),93.9
+Virar,3,41.88,1139.0,Semi-Furnished,South,Under Construction,17,2,1,Mumbai,3676.91,Affordable (<50L),97.8
+Ghatkopar West,2,108.59,744.0,Unfurnished,West,Under Construction,18,1,3,Mumbai,14595.43,Premium (1-2Cr),93.3
+Kalyan,3,74.86,1149.0,Unfurnished,North,Under Construction,22,1,2,Mumbai,6515.23,Mid-Range (50-100L),95.5
+Bandra West,1,177.53,741.0,Semi-Furnished,North,Under Construction,17,1,2,Mumbai,23958.16,Premium (1-2Cr),88.6
+Borivali West,5,121.05,1634.0,Furnished,South,Under Construction,4,2,2,Mumbai,7408.2,Premium (1-2Cr),92.4
+Bandra West,2,260.41,734.0,Semi-Furnished,North,Ready to Move,24,0,3,Mumbai,35478.2,Luxury (2Cr+),83.1
+Bandra East,3,339.78,1053.0,Unfurnished,East,Ready to Move,2,0,3,Mumbai,32267.81,Luxury (2Cr+),77.7
+Andheri East,2,83.54,1133.0,Semi-Furnished,North,Ready to Move,23,2,2,Mumbai,7373.35,Mid-Range (50-100L),95.0
+Goregaon East,3,198.63,1404.0,Furnished,East,Ready to Move,21,0,3,Mumbai,14147.44,Premium (1-2Cr),87.2
+Powai,3,249.79,1108.0,Semi-Furnished,South,Under Construction,13,2,2,Mumbai,22544.22,Luxury (2Cr+),83.8
+Borivali West,5,202.55,1995.0,Semi-Furnished,West,Under Construction,2,2,2,Mumbai,10152.88,Luxury (2Cr+),87.0
+Kandivali West,1,55.28,594.0,Furnished,West,Under Construction,16,0,3,Mumbai,9306.4,Mid-Range (50-100L),96.9
+Kandivali West,3,165.67,1414.0,Furnished,North,Ready to Move,14,1,2,Mumbai,11716.41,Premium (1-2Cr),89.4
+Airoli,2,45.7,1022.0,Furnished,South,Ready to Move,17,0,2,Mumbai,4471.62,Affordable (<50L),97.5
+Borivali West,3,142.43,905.0,Furnished,West,Ready to Move,10,2,2,Mumbai,15738.12,Premium (1-2Cr),91.0
+Thane East,3,67.23,918.0,Unfurnished,West,Under Construction,2,1,3,Mumbai,7323.53,Mid-Range (50-100L),96.1
+Mulund East,2,91.52,1134.0,Furnished,South,Under Construction,29,2,2,Mumbai,8070.55,Mid-Range (50-100L),94.4
+Worli,5,831.73,1279.0,Furnished,North,Under Construction,5,2,3,Mumbai,65029.71,Luxury (2Cr+),44.7
+Kalyan,2,49.62,1055.0,Unfurnished,North,Ready to Move,29,1,3,Mumbai,4703.32,Affordable (<50L),97.2
+Nalasopara,2,27.44,1095.0,Furnished,South,Ready to Move,1,1,2,Mumbai,2505.94,Affordable (<50L),98.7
+Goregaon West,1,67.96,891.0,Semi-Furnished,West,Ready to Move,4,2,2,Mumbai,7627.38,Mid-Range (50-100L),96.0
+Andheri West,2,144.7,828.0,Furnished,East,Ready to Move,6,2,2,Mumbai,17475.85,Premium (1-2Cr),90.8
+Andheri East,1,35.57,757.0,Semi-Furnished,East,Ready to Move,2,1,3,Mumbai,4698.81,Affordable (<50L),98.2
+Virar,5,59.95,1528.0,Furnished,East,Ready to Move,6,0,2,Mumbai,3923.43,Mid-Range (50-100L),96.5
+Malad East,2,70.03,1041.0,Furnished,West,Under Construction,12,1,3,Mumbai,6727.19,Mid-Range (50-100L),95.9
+Mulund West,1,28.44,599.0,Unfurnished,North,Ready to Move,24,2,2,Mumbai,4747.91,Affordable (<50L),98.7
+Panvel,1,29.76,837.0,Semi-Furnished,West,Ready to Move,6,1,1,Mumbai,3555.56,Affordable (<50L),98.6
+Goregaon West,3,127.37,1208.0,Semi-Furnished,East,Under Construction,19,1,3,Mumbai,10543.87,Premium (1-2Cr),92.0
+Kharghar,3,122.34,1135.0,Furnished,East,Under Construction,9,2,2,Mumbai,10778.85,Premium (1-2Cr),92.4
+Malad East,3,89.35,972.0,Semi-Furnished,East,Under Construction,7,2,1,Mumbai,9192.39,Mid-Range (50-100L),94.6
+Dahisar,3,57.6,1222.0,Semi-Furnished,East,Ready to Move,25,0,1,Mumbai,4713.58,Mid-Range (50-100L),96.7
+Worli,3,881.94,1136.0,Furnished,North,Under Construction,28,2,3,Mumbai,77635.56,Luxury (2Cr+),41.3
+Borivali West,5,149.34,1485.0,Unfurnished,West,Under Construction,2,0,1,Mumbai,10056.57,Premium (1-2Cr),90.5
+Worli,1,133.93,729.0,Furnished,West,Ready to Move,3,1,3,Mumbai,18371.74,Premium (1-2Cr),91.6
+Borivali East,2,82.98,1052.0,Unfurnished,West,Under Construction,22,0,3,Mumbai,7887.83,Mid-Range (50-100L),95.0
+Nalasopara,3,33.66,1266.0,Furnished,North,Ready to Move,21,0,1,Mumbai,2658.77,Affordable (<50L),98.3
+Bandra West,3,365.96,1003.0,Furnished,West,Ready to Move,1,2,2,Mumbai,36486.54,Luxury (2Cr+),76.0
+Ulhasnagar,3,42.02,1443.0,Unfurnished,East,Ready to Move,22,2,1,Mumbai,2911.99,Affordable (<50L),97.7
+Kalyan,1,23.5,658.0,Unfurnished,East,Ready to Move,13,1,2,Mumbai,3571.43,Affordable (<50L),99.0
+Thane East,1,25.96,674.0,Unfurnished,North,Ready to Move,7,2,3,Mumbai,3851.63,Affordable (<50L),98.8
+Kandivali West,1,54.22,586.0,Unfurnished,West,Ready to Move,7,1,3,Mumbai,9252.56,Mid-Range (50-100L),96.9
+Mira Road,1,27.26,575.0,Semi-Furnished,West,Under Construction,25,2,1,Mumbai,4740.87,Affordable (<50L),98.7
+Mulund East,5,205.97,1252.0,Unfurnished,West,Under Construction,11,0,3,Mumbai,16451.28,Luxury (2Cr+),86.7
+Vasai,2,36.35,743.0,Furnished,West,Under Construction,16,0,2,Mumbai,4892.33,Affordable (<50L),98.1
+Airoli,1,36.93,789.0,Unfurnished,North,Ready to Move,29,1,2,Mumbai,4680.61,Affordable (<50L),98.1
+Panvel,1,34.94,749.0,Furnished,North,Under Construction,17,0,2,Mumbai,4664.89,Affordable (<50L),98.2
+Vikhroli,1,54.55,790.0,Unfurnished,North,Under Construction,2,2,1,Mumbai,6905.06,Mid-Range (50-100L),96.9
+Navi Mumbai,2,97.2,924.0,Furnished,North,Under Construction,23,2,3,Mumbai,10519.48,Mid-Range (50-100L),94.0
+Thane West,5,241.06,2044.0,Furnished,East,Ready to Move,10,0,1,Mumbai,11793.54,Luxury (2Cr+),84.4
+Dombivli,2,26.42,834.0,Furnished,East,Ready to Move,18,1,1,Mumbai,3167.87,Affordable (<50L),98.8
+Mulund West,3,163.85,868.0,Furnished,South,Under Construction,18,0,1,Mumbai,18876.73,Premium (1-2Cr),89.6
+Nalasopara,2,25.79,998.0,Semi-Furnished,East,Under Construction,18,1,3,Mumbai,2584.17,Affordable (<50L),98.8
+Dadar,4,316.12,1212.0,Semi-Furnished,East,Under Construction,20,0,3,Mumbai,26082.51,Luxury (2Cr+),79.3
+Kalyan,2,26.83,1189.0,Furnished,West,Under Construction,1,1,2,Mumbai,2256.52,Affordable (<50L),98.8
+Chembur,1,43.68,836.0,Furnished,East,Under Construction,9,1,2,Mumbai,5224.88,Affordable (<50L),97.6
+Bandra West,2,304.04,783.0,Unfurnished,North,Ready to Move,9,1,3,Mumbai,38830.14,Luxury (2Cr+),80.1
+Ghatkopar West,1,39.75,657.0,Furnished,West,Under Construction,12,1,2,Mumbai,6050.23,Affordable (<50L),97.9
+Dadar,1,117.36,575.0,Semi-Furnished,West,Ready to Move,3,0,2,Mumbai,20410.43,Premium (1-2Cr),92.7
+Parel,4,624.22,1346.0,Unfurnished,South,Under Construction,17,1,3,Mumbai,46375.93,Luxury (2Cr+),58.6
+Mira Road,1,21.97,869.0,Semi-Furnished,East,Under Construction,8,1,3,Mumbai,2528.19,Affordable (<50L),99.1
+Airoli,2,51.82,806.0,Unfurnished,East,Under Construction,8,1,1,Mumbai,6429.28,Mid-Range (50-100L),97.1
+Malad West,2,114.76,1132.0,Furnished,North,Ready to Move,8,2,2,Mumbai,10137.81,Premium (1-2Cr),92.9
+Dahisar,5,143.32,1649.0,Semi-Furnished,West,Ready to Move,7,0,1,Mumbai,8691.33,Premium (1-2Cr),90.9
+Navi Mumbai,2,91.26,817.0,Unfurnished,North,Under Construction,12,0,2,Mumbai,11170.13,Mid-Range (50-100L),94.4
+Lower Parel,2,359.19,908.0,Semi-Furnished,North,Ready to Move,28,0,2,Mumbai,39558.37,Luxury (2Cr+),76.4
+Nerul,1,39.12,621.0,Semi-Furnished,West,Under Construction,13,2,1,Mumbai,6299.52,Affordable (<50L),97.9
+Parel,1,85.46,652.0,Semi-Furnished,West,Under Construction,6,1,2,Mumbai,13107.36,Mid-Range (50-100L),94.8
+Worli,4,834.5,1154.0,Unfurnished,West,Ready to Move,26,1,2,Mumbai,72313.69,Luxury (2Cr+),44.5
+Nalasopara,2,32.3,1149.0,Unfurnished,South,Under Construction,25,0,3,Mumbai,2811.14,Affordable (<50L),98.4
+Malad East,2,66.75,725.0,Semi-Furnished,East,Ready to Move,2,2,2,Mumbai,9206.9,Mid-Range (50-100L),96.1
+Kalyan,2,39.26,742.0,Unfurnished,West,Ready to Move,16,0,2,Mumbai,5291.11,Affordable (<50L),97.9
+Bandra West,1,220.73,611.0,Furnished,North,Ready to Move,25,1,3,Mumbai,36126.02,Luxury (2Cr+),85.7
+Borivali West,1,43.19,765.0,Semi-Furnished,South,Ready to Move,9,1,3,Mumbai,5645.75,Affordable (<50L),97.7
+Mulund East,3,111.13,1326.0,Unfurnished,West,Under Construction,29,2,3,Mumbai,8380.84,Premium (1-2Cr),93.1
+Ghatkopar West,5,335.01,1498.0,Furnished,South,Under Construction,19,1,2,Mumbai,22363.82,Luxury (2Cr+),78.1
+Virar,2,27.83,1190.0,Semi-Furnished,West,Under Construction,25,0,3,Mumbai,2338.66,Affordable (<50L),98.7
+Bandra West,3,415.84,1090.0,Unfurnished,East,Ready to Move,1,0,2,Mumbai,38150.46,Luxury (2Cr+),72.6
+Borivali East,3,123.68,1165.0,Furnished,East,Ready to Move,27,1,3,Mumbai,10616.31,Premium (1-2Cr),92.3
+Bandra West,3,596.74,981.0,Semi-Furnished,North,Under Construction,5,0,3,Mumbai,60829.77,Luxury (2Cr+),60.5
+Goregaon West,2,68.29,775.0,Unfurnished,East,Ready to Move,14,0,2,Mumbai,8811.61,Mid-Range (50-100L),96.0
+Lower Parel,3,332.8,1306.0,Unfurnished,North,Under Construction,7,0,3,Mumbai,25482.39,Luxury (2Cr+),78.2
+Borivali West,2,78.89,930.0,Unfurnished,East,Under Construction,20,1,1,Mumbai,8482.8,Mid-Range (50-100L),95.3
+Andheri East,4,297.86,1388.0,Furnished,North,Ready to Move,1,2,3,Mumbai,21459.65,Luxury (2Cr+),80.6
+Powai,2,190.42,779.0,Unfurnished,North,Under Construction,5,1,3,Mumbai,24444.16,Premium (1-2Cr),87.8
+Bandra West,2,433.61,803.0,Semi-Furnished,East,Under Construction,24,1,3,Mumbai,53998.75,Luxury (2Cr+),71.4
+Mulund East,1,32.73,654.0,Semi-Furnished,North,Ready to Move,14,1,3,Mumbai,5004.59,Affordable (<50L),98.4
+Malad West,3,158.52,916.0,Furnished,South,Ready to Move,18,2,3,Mumbai,17305.68,Premium (1-2Cr),89.9
+Borivali West,3,99.36,1346.0,Semi-Furnished,East,Under Construction,7,1,3,Mumbai,7381.87,Mid-Range (50-100L),93.9
+Mulund East,2,58.78,1050.0,Unfurnished,East,Under Construction,15,0,1,Mumbai,5598.1,Mid-Range (50-100L),96.6
+Dadar,2,288.51,957.0,Furnished,West,Under Construction,29,1,2,Mumbai,30147.34,Luxury (2Cr+),81.2
+Nalasopara,3,41.49,1169.0,Semi-Furnished,East,Ready to Move,8,1,1,Mumbai,3549.19,Affordable (<50L),97.8
+Dombivli,3,66.93,1005.0,Unfurnished,South,Ready to Move,2,0,3,Mumbai,6659.7,Mid-Range (50-100L),96.1
+Malad East,5,239.84,1251.0,Semi-Furnished,East,Ready to Move,17,2,2,Mumbai,19171.86,Luxury (2Cr+),84.5
+Mulund East,3,80.24,1044.0,Furnished,West,Ready to Move,4,0,1,Mumbai,7685.82,Mid-Range (50-100L),95.2
+Borivali East,3,82.77,1325.0,Furnished,South,Ready to Move,29,1,2,Mumbai,6246.79,Mid-Range (50-100L),95.0
+Kharghar,3,77.17,1320.0,Furnished,West,Ready to Move,2,2,3,Mumbai,5846.21,Mid-Range (50-100L),95.4
+Parel,4,369.66,1700.0,Semi-Furnished,North,Under Construction,24,2,3,Mumbai,21744.71,Luxury (2Cr+),75.7
+Ghatkopar East,1,44.95,632.0,Semi-Furnished,South,Under Construction,13,2,2,Mumbai,7112.34,Affordable (<50L),97.6
+Dadar,2,218.07,835.0,Semi-Furnished,East,Under Construction,3,1,2,Mumbai,26116.17,Luxury (2Cr+),85.9
+Airoli,2,50.1,755.0,Unfurnished,North,Ready to Move,17,2,3,Mumbai,6635.76,Mid-Range (50-100L),97.2
+Chembur,3,110.86,1232.0,Unfurnished,East,Ready to Move,15,0,2,Mumbai,8998.38,Premium (1-2Cr),93.1
+Parel,1,135.92,773.0,Semi-Furnished,West,Under Construction,23,2,2,Mumbai,17583.44,Premium (1-2Cr),91.4
+Goregaon West,3,222.56,1331.0,Unfurnished,East,Under Construction,23,1,2,Mumbai,16721.26,Luxury (2Cr+),85.6
+Vikhroli,3,109.54,1496.0,Unfurnished,North,Under Construction,12,2,3,Mumbai,7322.19,Premium (1-2Cr),93.2
+Nalasopara,3,29.5,871.0,Furnished,West,Ready to Move,15,2,3,Mumbai,3386.91,Affordable (<50L),98.6
+Ghatkopar East,1,52.64,861.0,Semi-Furnished,South,Ready to Move,25,2,2,Mumbai,6113.82,Mid-Range (50-100L),97.0
+Vasai,2,24.27,726.0,Unfurnished,East,Under Construction,17,2,2,Mumbai,3342.98,Affordable (<50L),98.9
+Borivali East,3,60.83,1424.0,Furnished,West,Under Construction,15,2,3,Mumbai,4271.77,Mid-Range (50-100L),96.5
+Thane West,3,75.25,1103.0,Semi-Furnished,East,Under Construction,14,1,2,Mumbai,6822.3,Mid-Range (50-100L),95.5
+Vashi,3,112.51,910.0,Semi-Furnished,West,Under Construction,15,2,2,Mumbai,12363.74,Premium (1-2Cr),93.0
+Airoli,3,70.59,1448.0,Furnished,North,Under Construction,8,2,3,Mumbai,4875.0,Mid-Range (50-100L),95.8
+Kalyan,3,46.44,1349.0,Semi-Furnished,South,Ready to Move,18,1,2,Mumbai,3442.55,Affordable (<50L),97.5
+Lower Parel,3,485.44,1428.0,Furnished,South,Under Construction,27,0,1,Mumbai,33994.4,Luxury (2Cr+),68.0
+Kalyan,3,51.52,1093.0,Furnished,East,Under Construction,7,2,3,Mumbai,4713.63,Mid-Range (50-100L),97.1
+Nalasopara,3,26.06,1258.0,Semi-Furnished,West,Under Construction,10,1,3,Mumbai,2071.54,Affordable (<50L),98.8
+Dadar,3,313.19,853.0,Unfurnished,North,Under Construction,26,2,3,Mumbai,36716.3,Luxury (2Cr+),79.5
+Goregaon West,3,207.82,1431.0,Furnished,North,Under Construction,2,1,2,Mumbai,14522.71,Luxury (2Cr+),86.6
+Malad West,2,97.86,783.0,Semi-Furnished,East,Under Construction,14,0,2,Mumbai,12498.08,Mid-Range (50-100L),94.0
+Nalasopara,3,33.7,1063.0,Semi-Furnished,North,Under Construction,19,2,3,Mumbai,3170.27,Affordable (<50L),98.3
+Panvel,1,34.75,716.0,Semi-Furnished,North,Ready to Move,9,1,2,Mumbai,4853.35,Affordable (<50L),98.2
+Andheri East,3,239.78,1072.0,Furnished,North,Under Construction,2,0,2,Mumbai,22367.54,Luxury (2Cr+),84.5
+Kurla,1,54.41,887.0,Furnished,West,Under Construction,1,2,3,Mumbai,6134.16,Mid-Range (50-100L),96.9
+Dahisar,2,60.94,731.0,Furnished,West,Under Construction,5,0,1,Mumbai,8336.53,Mid-Range (50-100L),96.5
+Kalyan,4,54.11,1312.0,Unfurnished,North,Ready to Move,22,1,1,Mumbai,4124.24,Mid-Range (50-100L),96.9
+Bandra West,3,563.31,1092.0,Semi-Furnished,North,Under Construction,8,2,2,Mumbai,51585.16,Luxury (2Cr+),62.7
+Ulhasnagar,1,9.96,748.0,Furnished,North,Under Construction,8,1,3,Mumbai,1331.55,Affordable (<50L),99.9
+Thane West,1,36.68,785.0,Furnished,East,Ready to Move,28,0,3,Mumbai,4672.61,Affordable (<50L),98.1
+Powai,2,144.44,742.0,Semi-Furnished,South,Ready to Move,25,0,1,Mumbai,19466.31,Premium (1-2Cr),90.9
+Kharghar,4,118.04,1354.0,Furnished,East,Ready to Move,3,2,3,Mumbai,8717.87,Premium (1-2Cr),92.6
+Malad East,4,125.45,1783.0,Semi-Furnished,West,Under Construction,7,0,2,Mumbai,7035.89,Premium (1-2Cr),92.1
+Vikhroli,3,83.69,1119.0,Semi-Furnished,South,Ready to Move,12,2,3,Mumbai,7479.0,Mid-Range (50-100L),94.9
+Ghatkopar West,3,188.94,1122.0,Unfurnished,West,Ready to Move,11,0,2,Mumbai,16839.57,Premium (1-2Cr),87.9
+Kurla,3,130.86,874.0,Unfurnished,North,Under Construction,16,1,1,Mumbai,14972.54,Premium (1-2Cr),91.8
+Kalyan,3,43.82,1402.0,Furnished,West,Ready to Move,29,1,3,Mumbai,3125.53,Affordable (<50L),97.6
+Worli,3,632.01,1390.0,Furnished,East,Ready to Move,8,1,2,Mumbai,45468.35,Luxury (2Cr+),58.1
+Dadar,3,380.15,1388.0,Semi-Furnished,North,Under Construction,5,0,3,Mumbai,27388.33,Luxury (2Cr+),75.0
+Dadar,2,164.4,930.0,Semi-Furnished,South,Ready to Move,13,2,3,Mumbai,17677.42,Premium (1-2Cr),89.5
+Airoli,3,91.02,1338.0,Semi-Furnished,East,Under Construction,12,1,2,Mumbai,6802.69,Mid-Range (50-100L),94.5
+Kandivali East,3,143.17,1136.0,Unfurnished,West,Ready to Move,18,0,2,Mumbai,12602.99,Premium (1-2Cr),91.0
+Kandivali East,3,100.75,1045.0,Semi-Furnished,North,Under Construction,28,2,1,Mumbai,9641.15,Premium (1-2Cr),93.8
+Mulund West,4,158.03,1709.0,Furnished,North,Under Construction,15,1,2,Mumbai,9246.93,Premium (1-2Cr),90.0
+Ulhasnagar,1,11.15,703.0,Semi-Furnished,East,Under Construction,16,0,2,Mumbai,1586.06,Affordable (<50L),99.8
+Airoli,5,210.2,1639.0,Semi-Furnished,North,Under Construction,5,2,1,Mumbai,12824.89,Luxury (2Cr+),86.4
+Kurla,3,105.42,864.0,Unfurnished,South,Ready to Move,14,2,3,Mumbai,12201.39,Premium (1-2Cr),93.5
+Kalyan,3,57.28,891.0,Semi-Furnished,South,Under Construction,18,2,2,Mumbai,6428.73,Mid-Range (50-100L),96.7
+Nerul,3,89.79,1250.0,Unfurnished,North,Under Construction,20,1,1,Mumbai,7183.2,Mid-Range (50-100L),94.5
+Chembur,1,72.77,720.0,Semi-Furnished,East,Under Construction,27,2,2,Mumbai,10106.94,Mid-Range (50-100L),95.7
+Mira Road,3,63.82,1142.0,Semi-Furnished,North,Ready to Move,15,1,3,Mumbai,5588.44,Mid-Range (50-100L),96.3
+Vasai,1,11.76,735.0,Furnished,South,Ready to Move,3,1,3,Mumbai,1600.0,Affordable (<50L),99.8
+Navi Mumbai,3,71.8,1025.0,Unfurnished,North,Under Construction,17,0,3,Mumbai,7004.88,Mid-Range (50-100L),95.7
+Malad East,3,110.21,992.0,Furnished,East,Under Construction,24,2,1,Mumbai,11109.88,Premium (1-2Cr),93.2
+Kandivali West,5,252.92,1341.0,Furnished,North,Under Construction,24,2,1,Mumbai,18860.55,Luxury (2Cr+),83.6
+Goregaon East,2,123.84,1086.0,Furnished,East,Ready to Move,19,1,3,Mumbai,11403.31,Premium (1-2Cr),92.3
+Nalasopara,3,54.6,1400.0,Unfurnished,North,Ready to Move,29,1,3,Mumbai,3900.0,Mid-Range (50-100L),96.9
+Ghatkopar West,1,38.38,738.0,Semi-Furnished,North,Under Construction,11,0,2,Mumbai,5200.54,Affordable (<50L),98.0
+Mulund East,3,78.7,1499.0,Unfurnished,North,Under Construction,8,0,3,Mumbai,5250.17,Mid-Range (50-100L),95.3
+Andheri East,4,328.16,1741.0,Furnished,West,Ready to Move,25,2,2,Mumbai,18848.94,Luxury (2Cr+),78.5
+Borivali East,3,118.95,1255.0,Semi-Furnished,East,Ready to Move,5,0,3,Mumbai,9478.09,Premium (1-2Cr),92.6
+Chembur,3,222.32,1303.0,Furnished,North,Under Construction,18,1,3,Mumbai,17062.16,Luxury (2Cr+),85.6
+Goregaon West,1,45.64,719.0,Furnished,South,Ready to Move,18,0,2,Mumbai,6347.71,Affordable (<50L),97.5
+Thane West,3,66.13,1034.0,Semi-Furnished,East,Ready to Move,22,0,1,Mumbai,6395.55,Mid-Range (50-100L),96.1
+Andheri East,3,208.63,973.0,Semi-Furnished,South,Ready to Move,13,1,3,Mumbai,21441.93,Luxury (2Cr+),86.6
+Dadar,5,552.95,1156.0,Semi-Furnished,South,Under Construction,17,0,3,Mumbai,47833.04,Luxury (2Cr+),63.4
+Kurla,3,136.03,1423.0,Furnished,West,Ready to Move,22,1,2,Mumbai,9559.38,Premium (1-2Cr),91.4
+Airoli,1,31.77,567.0,Semi-Furnished,East,Ready to Move,25,1,2,Mumbai,5603.17,Affordable (<50L),98.4
+Chembur,2,87.42,759.0,Furnished,North,Ready to Move,8,0,3,Mumbai,11517.79,Mid-Range (50-100L),94.7
+Nerul,2,61.16,960.0,Semi-Furnished,West,Under Construction,11,1,3,Mumbai,6370.83,Mid-Range (50-100L),96.5
+Vashi,3,180.52,1347.0,Furnished,East,Under Construction,1,1,2,Mumbai,13401.63,Premium (1-2Cr),88.4
+Airoli,4,99.97,1297.0,Semi-Furnished,South,Ready to Move,24,1,3,Mumbai,7707.79,Mid-Range (50-100L),93.9
+Borivali East,3,124.31,1349.0,Semi-Furnished,South,Under Construction,12,1,2,Mumbai,9214.97,Premium (1-2Cr),92.2
+Goregaon East,5,296.09,1566.0,Unfurnished,East,Ready to Move,18,0,2,Mumbai,18907.41,Luxury (2Cr+),80.7
+Vashi,4,246.22,1470.0,Furnished,West,Under Construction,2,1,2,Mumbai,16749.66,Luxury (2Cr+),84.0
+Ghatkopar West,3,197.37,1024.0,Unfurnished,East,Under Construction,28,1,1,Mumbai,19274.41,Premium (1-2Cr),87.3
+Kandivali West,1,39.8,693.0,Semi-Furnished,South,Under Construction,2,2,2,Mumbai,5743.15,Affordable (<50L),97.9
+Kandivali West,3,84.2,1324.0,Furnished,West,Under Construction,1,2,2,Mumbai,6359.52,Mid-Range (50-100L),94.9
+Panvel,2,65.41,853.0,Unfurnished,South,Under Construction,20,1,1,Mumbai,7668.23,Mid-Range (50-100L),96.2
+Chembur,1,59.79,856.0,Unfurnished,South,Under Construction,23,0,3,Mumbai,6984.81,Mid-Range (50-100L),96.6
+Vashi,3,145.64,1193.0,Semi-Furnished,East,Ready to Move,11,2,2,Mumbai,12207.88,Premium (1-2Cr),90.8
+Kurla,2,88.01,900.0,Semi-Furnished,South,Ready to Move,11,2,3,Mumbai,9778.89,Mid-Range (50-100L),94.7
+Malad East,5,153.76,1793.0,Semi-Furnished,South,Under Construction,10,1,2,Mumbai,8575.57,Premium (1-2Cr),90.2
+Andheri West,3,229.81,1099.0,Furnished,West,Under Construction,7,2,3,Mumbai,20910.83,Luxury (2Cr+),85.1
+Worli,4,772.61,1681.0,Furnished,East,Under Construction,21,2,3,Mumbai,45961.33,Luxury (2Cr+),48.7
+Dahisar,2,60.41,919.0,Semi-Furnished,South,Under Construction,11,2,1,Mumbai,6573.45,Mid-Range (50-100L),96.5
+Borivali East,2,78.79,822.0,Furnished,South,Ready to Move,19,0,2,Mumbai,9585.16,Mid-Range (50-100L),95.3
+Vasai,1,18.63,825.0,Furnished,East,Ready to Move,2,1,3,Mumbai,2258.18,Affordable (<50L),99.3
+Thane East,4,117.0,1124.0,Furnished,South,Ready to Move,25,0,2,Mumbai,10409.25,Premium (1-2Cr),92.7
+Vashi,1,33.29,817.0,Furnished,South,Ready to Move,25,2,3,Mumbai,4074.66,Affordable (<50L),98.3
+Malad East,1,51.35,702.0,Unfurnished,North,Ready to Move,25,0,1,Mumbai,7314.81,Mid-Range (50-100L),97.1
+Airoli,4,138.73,1139.0,Furnished,North,Ready to Move,6,2,2,Mumbai,12179.98,Premium (1-2Cr),91.3
+Malad West,1,48.64,761.0,Furnished,North,Under Construction,9,1,3,Mumbai,6391.59,Affordable (<50L),97.3
+Vikhroli,2,62.4,1141.0,Semi-Furnished,South,Under Construction,21,1,3,Mumbai,5468.89,Mid-Range (50-100L),96.4
+Mulund East,2,67.25,1068.0,Furnished,North,Under Construction,10,1,2,Mumbai,6296.82,Mid-Range (50-100L),96.1
+Andheri West,3,219.42,1239.0,Furnished,South,Under Construction,23,0,2,Mumbai,17709.44,Luxury (2Cr+),85.8
+Dombivli,1,19.39,667.0,Furnished,East,Ready to Move,5,2,1,Mumbai,2907.05,Affordable (<50L),99.3
+Lower Parel,3,352.62,914.0,Furnished,West,Ready to Move,14,2,3,Mumbai,38579.87,Luxury (2Cr+),76.9
+Ghatkopar East,2,91.09,1094.0,Furnished,North,Ready to Move,10,0,3,Mumbai,8326.33,Mid-Range (50-100L),94.5
+Borivali West,3,76.45,858.0,Furnished,West,Ready to Move,1,1,2,Mumbai,8910.26,Mid-Range (50-100L),95.4
+Dadar,2,247.76,941.0,Semi-Furnished,West,Ready to Move,10,1,2,Mumbai,26329.44,Luxury (2Cr+),83.9
+Andheri East,1,60.73,594.0,Furnished,East,Under Construction,16,1,3,Mumbai,10223.91,Mid-Range (50-100L),96.5
+Mulund West,2,79.92,1168.0,Furnished,West,Ready to Move,15,1,2,Mumbai,6842.47,Mid-Range (50-100L),95.2
+Goregaon West,2,88.84,993.0,Semi-Furnished,East,Under Construction,10,1,2,Mumbai,8946.63,Mid-Range (50-100L),94.6
+Chembur,4,184.93,1670.0,Unfurnished,South,Ready to Move,29,1,3,Mumbai,11073.65,Premium (1-2Cr),88.1
+Parel,3,496.7,1358.0,Furnished,West,Ready to Move,29,2,1,Mumbai,36575.85,Luxury (2Cr+),67.2
+Dahisar,3,59.29,1441.0,Unfurnished,North,Under Construction,10,0,3,Mumbai,4114.5,Mid-Range (50-100L),96.6
+Nerul,4,118.28,1462.0,Furnished,North,Ready to Move,13,2,3,Mumbai,8090.29,Premium (1-2Cr),92.6
+Ghatkopar East,3,113.98,1035.0,Semi-Furnished,West,Under Construction,22,1,3,Mumbai,11012.56,Premium (1-2Cr),92.9
+Vasai,4,40.59,1060.0,Unfurnished,West,Under Construction,15,2,3,Mumbai,3829.25,Affordable (<50L),97.8
+Thane West,2,72.56,930.0,Unfurnished,East,Under Construction,20,2,2,Mumbai,7802.15,Mid-Range (50-100L),95.7
+Ghatkopar West,5,173.08,1911.0,Semi-Furnished,West,Ready to Move,29,2,3,Mumbai,9057.04,Premium (1-2Cr),88.9
+Kandivali East,2,58.7,726.0,Furnished,South,Ready to Move,14,2,1,Mumbai,8085.4,Mid-Range (50-100L),96.6
+Chembur,2,69.99,729.0,Unfurnished,East,Ready to Move,14,2,3,Mumbai,9600.82,Mid-Range (50-100L),95.9
+Kandivali East,2,95.01,1008.0,Unfurnished,West,Under Construction,16,2,3,Mumbai,9425.6,Mid-Range (50-100L),94.2
+Kharghar,2,65.67,1028.0,Furnished,East,Under Construction,26,1,2,Mumbai,6388.13,Mid-Range (50-100L),96.2
+Powai,3,242.66,934.0,Unfurnished,East,Ready to Move,13,1,3,Mumbai,25980.73,Luxury (2Cr+),84.3
+Andheri East,5,370.12,1440.0,Furnished,East,Under Construction,29,2,1,Mumbai,25702.78,Luxury (2Cr+),75.7
+Thane West,3,77.47,999.0,Unfurnished,North,Under Construction,16,1,1,Mumbai,7754.75,Mid-Range (50-100L),95.4
+Ghatkopar East,3,88.2,1154.0,Semi-Furnished,South,Ready to Move,21,0,2,Mumbai,7642.98,Mid-Range (50-100L),94.6
+Dombivli,1,17.37,594.0,Semi-Furnished,West,Ready to Move,13,1,3,Mumbai,2924.24,Affordable (<50L),99.4
+Virar,3,60.97,1040.0,Furnished,North,Under Construction,25,1,1,Mumbai,5862.5,Mid-Range (50-100L),96.5
+Navi Mumbai,1,37.8,802.0,Furnished,West,Ready to Move,2,0,3,Mumbai,4713.22,Affordable (<50L),98.0
+Dadar,3,222.49,870.0,Furnished,North,Ready to Move,22,2,3,Mumbai,25573.56,Luxury (2Cr+),85.6
+Thane East,4,121.21,1565.0,Unfurnished,North,Ready to Move,27,0,2,Mumbai,7745.05,Premium (1-2Cr),92.4
+Goregaon West,1,47.85,792.0,Furnished,North,Ready to Move,15,0,3,Mumbai,6041.67,Affordable (<50L),97.4
+Chembur,2,85.39,708.0,Furnished,North,Under Construction,2,2,2,Mumbai,12060.73,Mid-Range (50-100L),94.8
+Panvel,4,140.84,1059.0,Furnished,West,Under Construction,1,1,2,Mumbai,13299.34,Premium (1-2Cr),91.1
+Malad West,3,125.59,900.0,Semi-Furnished,South,Ready to Move,24,2,1,Mumbai,13954.44,Premium (1-2Cr),92.1
+Malad East,2,84.32,993.0,Unfurnished,South,Under Construction,18,1,3,Mumbai,8491.44,Mid-Range (50-100L),94.9
+Vasai,2,27.98,995.0,Unfurnished,South,Ready to Move,18,1,1,Mumbai,2812.06,Affordable (<50L),98.7
+Ulhasnagar,2,34.84,1098.0,Furnished,East,Ready to Move,8,0,3,Mumbai,3173.04,Affordable (<50L),98.2
+Ulhasnagar,2,27.61,945.0,Semi-Furnished,South,Ready to Move,2,1,1,Mumbai,2921.69,Affordable (<50L),98.7
+Parel,5,596.96,1164.0,Unfurnished,South,Under Construction,14,0,2,Mumbai,51285.22,Luxury (2Cr+),60.5
+Kandivali East,1,28.78,874.0,Unfurnished,East,Under Construction,28,2,3,Mumbai,3292.91,Affordable (<50L),98.6
+Vikhroli,2,79.23,791.0,Unfurnished,South,Ready to Move,17,1,1,Mumbai,10016.43,Mid-Range (50-100L),95.2
+Nalasopara,3,32.47,1114.0,Furnished,South,Under Construction,28,2,3,Mumbai,2914.72,Affordable (<50L),98.4
+Vashi,3,118.39,906.0,Furnished,South,Under Construction,28,0,1,Mumbai,13067.33,Premium (1-2Cr),92.6
+Ghatkopar West,5,268.5,1944.0,Semi-Furnished,North,Under Construction,7,0,3,Mumbai,13811.73,Luxury (2Cr+),82.5
+Vikhroli,3,129.05,1020.0,Unfurnished,North,Under Construction,9,1,2,Mumbai,12651.96,Premium (1-2Cr),91.9
+Nalasopara,2,40.2,904.0,Unfurnished,East,Under Construction,5,2,1,Mumbai,4446.9,Affordable (<50L),97.9
+Nalasopara,5,85.25,1258.0,Furnished,East,Under Construction,12,1,2,Mumbai,6776.63,Mid-Range (50-100L),94.8
+Parel,1,79.26,647.0,Semi-Furnished,West,Ready to Move,18,2,2,Mumbai,12250.39,Mid-Range (50-100L),95.2
+Parel,3,423.43,955.0,Semi-Furnished,West,Ready to Move,25,0,1,Mumbai,44338.22,Luxury (2Cr+),72.1
+Ghatkopar West,3,178.35,1353.0,Unfurnished,East,Ready to Move,20,1,1,Mumbai,13181.82,Premium (1-2Cr),88.6
+Ulhasnagar,3,56.08,1179.0,Furnished,East,Under Construction,20,2,1,Mumbai,4756.57,Mid-Range (50-100L),96.8
+Lower Parel,2,373.65,835.0,Semi-Furnished,North,Ready to Move,15,1,3,Mumbai,44748.5,Luxury (2Cr+),75.5
+Malad West,2,106.86,735.0,Semi-Furnished,South,Ready to Move,23,2,1,Mumbai,14538.78,Premium (1-2Cr),93.4
+Ghatkopar East,2,114.76,929.0,Semi-Furnished,South,Ready to Move,13,2,3,Mumbai,12353.07,Premium (1-2Cr),92.9
+Navi Mumbai,2,92.48,748.0,Semi-Furnished,East,Under Construction,14,1,3,Mumbai,12363.64,Mid-Range (50-100L),94.4
+Mira Road,5,118.96,2082.0,Furnished,East,Ready to Move,29,1,1,Mumbai,5713.74,Premium (1-2Cr),92.6
+Ghatkopar West,2,107.41,890.0,Furnished,West,Under Construction,8,2,2,Mumbai,12068.54,Premium (1-2Cr),93.4
+Dadar,1,105.44,612.0,Unfurnished,North,Ready to Move,4,0,3,Mumbai,17228.76,Premium (1-2Cr),93.5
+Mulund West,3,113.42,1327.0,Unfurnished,West,Ready to Move,10,1,1,Mumbai,8547.1,Premium (1-2Cr),93.0
+Navi Mumbai,2,57.69,903.0,Unfurnished,South,Under Construction,7,1,1,Mumbai,6388.7,Mid-Range (50-100L),96.7
+Nerul,3,151.45,1358.0,Unfurnished,North,Ready to Move,25,0,3,Mumbai,11152.43,Premium (1-2Cr),90.4
+Kandivali West,4,226.65,1351.0,Furnished,West,Under Construction,28,0,1,Mumbai,16776.46,Luxury (2Cr+),85.3
+Bandra East,1,133.43,698.0,Furnished,East,Ready to Move,28,1,1,Mumbai,19116.05,Premium (1-2Cr),91.6
